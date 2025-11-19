@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+networkx
+scipy
+
+# Machine Learning / Deep Learning
+torch
+torch-geometric
+torch-scatter
+scikit-learn
+
+# Federated Learning
+flwr
+
+# Visualization & Analysis
+matplotlib
+seaborn
+pickle-mixin
+
+# Progress Bars & Utils
+tqdm

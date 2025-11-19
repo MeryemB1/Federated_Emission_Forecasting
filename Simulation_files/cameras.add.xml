@@ -1,0 +1,697 @@
+<additional>
+    <laneAreaDetector id="42428287_42428283_35027229#1_0" lane="35027229#1_0" pos="0.00" endPos="68.09" freq="7" file="camera_42428287_42428283_output.xml"/>
+    <laneAreaDetector id="42428287_42437363_167922076#1_0" lane="167922076#1_0" pos="0.00" endPos="35.93" freq="7" file="camera_42428287_42437363_output.xml"/>
+    <laneAreaDetector id="42428287_42437363_167922076#1_1" lane="167922076#1_1" pos="0.00" endPos="35.93" freq="7" file="camera_42428287_42437363_output.xml"/>
+    <laneAreaDetector id="42428287_42437363_reverse_-167922076#1_0" lane="-167922076#1_0" pos="0.00" endPos="35.93" freq="7" file="camera_42428287_42437363_reverse_output.xml"/>
+    <laneAreaDetector id="42428287_42437363_reverse_-167922076#1_1" lane="-167922076#1_1" pos="0.00" endPos="35.93" freq="7" file="camera_42428287_42437363_reverse_output.xml"/>
+    <laneAreaDetector id="42428287_42430333_167922072#1_0" lane="167922072#1_0" pos="0.00" endPos="202.81" freq="7" file="camera_42428287_42430333_output.xml"/>
+    <laneAreaDetector id="42428287_42430333_167922072#1_1" lane="167922072#1_1" pos="0.00" endPos="202.81" freq="7" file="camera_42428287_42430333_output.xml"/>
+    <laneAreaDetector id="42428287_42430333_reverse_-167922072#1_0" lane="-167922072#1_0" pos="0.00" endPos="202.81" freq="7" file="camera_42428287_42430333_reverse_output.xml"/>
+    <laneAreaDetector id="42428287_42430333_reverse_-167922072#1_1" lane="-167922072#1_1" pos="0.00" endPos="202.81" freq="7" file="camera_42428287_42430333_reverse_output.xml"/>
+    <laneAreaDetector id="42428297_42439984_682360554#1_0" lane="682360554#1_0" pos="0.00" endPos="60.48" freq="7" file="camera_42428297_42439984_output.xml"/>
+    <laneAreaDetector id="42428297_42439984_682360554#1_1" lane="682360554#1_1" pos="0.00" endPos="60.48" freq="7" file="camera_42428297_42439984_output.xml"/>
+    <laneAreaDetector id="42428297_42439984_682360554#1_2" lane="682360554#1_2" pos="0.00" endPos="60.48" freq="7" file="camera_42428297_42439984_output.xml"/>
+    <laneAreaDetector id="42428297_42439984_682360554#1_3" lane="682360554#1_3" pos="0.00" endPos="60.48" freq="7" file="camera_42428297_42439984_output.xml"/>
+    <laneAreaDetector id="42428297_42432700_46522008#0_0" lane="46522008#0_0" pos="0.00" endPos="250.60" freq="7" file="camera_42428297_42432700_output.xml"/>
+    <laneAreaDetector id="42428303_42435677_452322756#1_0" lane="452322756#1_0" pos="0.00" endPos="205.50" freq="7" file="camera_42428303_42435677_output.xml"/>
+    <laneAreaDetector id="42428305_42439996_167922074#1_0" lane="167922074#1_0" pos="0.00" endPos="37.04" freq="7" file="camera_42428305_42439996_output.xml"/>
+    <laneAreaDetector id="42428305_42439996_167922074#1_1" lane="167922074#1_1" pos="0.00" endPos="37.04" freq="7" file="camera_42428305_42439996_output.xml"/>
+    <laneAreaDetector id="42428305_42439996_167922074#1_2" lane="167922074#1_2" pos="0.00" endPos="37.04" freq="7" file="camera_42428305_42439996_output.xml"/>
+    <laneAreaDetector id="42428305_42428303_626514137#1_0" lane="626514137#1_0" pos="0.00" endPos="64.03" freq="7" file="camera_42428305_42428303_output.xml"/>
+    <laneAreaDetector id="42428307_42428305_972926362#1_0" lane="972926362#1_0" pos="0.00" endPos="69.15" freq="7" file="camera_42428307_42428305_output.xml"/>
+    <laneAreaDetector id="42428307_42432589_1320234484#6_0" lane="1320234484#6_0" pos="0.00" endPos="176.04" freq="7" file="camera_42428307_42432589_output.xml"/>
+    <laneAreaDetector id="42428308_42440001_420908137#0_0" lane="420908137#0_0" pos="0.00" endPos="62.07" freq="7" file="camera_42428308_42440001_output.xml"/>
+    <laneAreaDetector id="42428308_42440001_420908137#0_1" lane="420908137#0_1" pos="0.00" endPos="62.07" freq="7" file="camera_42428308_42440001_output.xml"/>
+    <laneAreaDetector id="42428308_42428307_1136460177#1_0" lane="1136460177#1_0" pos="0.00" endPos="64.23" freq="7" file="camera_42428308_42428307_output.xml"/>
+    <laneAreaDetector id="42428310_42435687_226041030#2_0" lane="226041030#2_0" pos="0.00" endPos="169.32" freq="7" file="camera_42428310_42435687_output.xml"/>
+    <laneAreaDetector id="42428310_42428308_1136460179#2_0" lane="1136460179#2_0" pos="0.00" endPos="61.96" freq="7" file="camera_42428310_42428308_output.xml"/>
+    <laneAreaDetector id="42428310_42428308_1136460179#2_1" lane="1136460179#2_1" pos="0.00" endPos="61.96" freq="7" file="camera_42428310_42428308_output.xml"/>
+    <laneAreaDetector id="42428312_42440009_717625448#2_0" lane="717625448#2_0" pos="0.00" endPos="70.04" freq="7" file="camera_42428312_42440009_output.xml"/>
+    <laneAreaDetector id="42428312_42440009_717625448#2_1" lane="717625448#2_1" pos="0.00" endPos="70.04" freq="7" file="camera_42428312_42440009_output.xml"/>
+    <laneAreaDetector id="42428312_42428310_812949648#1_0" lane="812949648#1_0" pos="0.00" endPos="63.67" freq="7" file="camera_42428312_42428310_output.xml"/>
+    <laneAreaDetector id="42428312_42428310_812949648#1_1" lane="812949648#1_1" pos="0.00" endPos="63.67" freq="7" file="camera_42428312_42428310_output.xml"/>
+    <laneAreaDetector id="42428313_42435705_812949647#1_0" lane="812949647#1_0" pos="0.00" endPos="158.28" freq="7" file="camera_42428313_42435705_output.xml"/>
+    <laneAreaDetector id="42428313_42435705_812949647#1_1" lane="812949647#1_1" pos="0.00" endPos="158.28" freq="7" file="camera_42428313_42435705_output.xml"/>
+    <laneAreaDetector id="42428313_42428312_1136460181#0_0" lane="1136460181#0_0" pos="0.00" endPos="59.40" freq="7" file="camera_42428313_42428312_output.xml"/>
+    <laneAreaDetector id="42428313_42428312_1136460181#0_1" lane="1136460181#0_1" pos="0.00" endPos="59.40" freq="7" file="camera_42428313_42428312_output.xml"/>
+    <laneAreaDetector id="42428313_42428312_1136460181#0_2" lane="1136460181#0_2" pos="0.00" endPos="59.40" freq="7" file="camera_42428313_42428312_output.xml"/>
+    <laneAreaDetector id="42428315_42440015_324118554#1_0" lane="324118554#1_0" pos="0.00" endPos="83.94" freq="7" file="camera_42428315_42440015_output.xml"/>
+    <laneAreaDetector id="42428315_42440015_324118554#1_1" lane="324118554#1_1" pos="0.00" endPos="83.94" freq="7" file="camera_42428315_42440015_output.xml"/>
+    <laneAreaDetector id="42428315_42428313_1267505842#1_0" lane="1267505842#1_0" pos="0.00" endPos="64.29" freq="7" file="camera_42428315_42428313_output.xml"/>
+    <laneAreaDetector id="42428315_42428313_1267505842#1_1" lane="1267505842#1_1" pos="0.00" endPos="64.29" freq="7" file="camera_42428315_42428313_output.xml"/>
+    <laneAreaDetector id="42428321_42428315_1267505843#0_0" lane="1267505843#0_0" pos="0.00" endPos="61.20" freq="7" file="camera_42428321_42428315_output.xml"/>
+    <laneAreaDetector id="42428321_42428315_1267505843#0_1" lane="1267505843#0_1" pos="0.00" endPos="61.20" freq="7" file="camera_42428321_42428315_output.xml"/>
+    <laneAreaDetector id="42428321_42428315_1267505843#0_2" lane="1267505843#0_2" pos="0.00" endPos="61.20" freq="7" file="camera_42428321_42428315_output.xml"/>
+    <laneAreaDetector id="42428321_42435710_499172074#10_0" lane="499172074#10_0" pos="0.00" endPos="129.45" freq="7" file="camera_42428321_42435710_output.xml"/>
+    <laneAreaDetector id="42428328_42428321_196116976#4_0" lane="196116976#4_0" pos="0.00" endPos="66.35" freq="7" file="camera_42428328_42428321_output.xml"/>
+    <laneAreaDetector id="42428328_42428321_196116976#4_1" lane="196116976#4_1" pos="0.00" endPos="66.35" freq="7" file="camera_42428328_42428321_output.xml"/>
+    <laneAreaDetector id="42430329_42430333_448686048#0_0" lane="448686048#0_0" pos="0.00" endPos="40.54" freq="7" file="camera_42430329_42430333_output.xml"/>
+    <laneAreaDetector id="42430329_42430333_448686048#0_1" lane="448686048#0_1" pos="0.00" endPos="40.54" freq="7" file="camera_42430329_42430333_output.xml"/>
+    <laneAreaDetector id="42430329_42430333_448686048#0_2" lane="448686048#0_2" pos="0.00" endPos="40.54" freq="7" file="camera_42430329_42430333_output.xml"/>
+    <laneAreaDetector id="42430329_42430333_448686048#0_3" lane="448686048#0_3" pos="0.00" endPos="40.54" freq="7" file="camera_42430329_42430333_output.xml"/>
+    <laneAreaDetector id="42430329_42430333_448686048#0_4" lane="448686048#0_4" pos="0.00" endPos="40.54" freq="7" file="camera_42430329_42430333_output.xml"/>
+    <laneAreaDetector id="42430333_42430338_127693103#1_0" lane="127693103#1_0" pos="0.00" endPos="64.54" freq="7" file="camera_42430333_42430338_output.xml"/>
+    <laneAreaDetector id="42430333_42430338_127693103#1_1" lane="127693103#1_1" pos="0.00" endPos="64.54" freq="7" file="camera_42430333_42430338_output.xml"/>
+    <laneAreaDetector id="42430333_42430338_127693103#1_2" lane="127693103#1_2" pos="0.00" endPos="64.54" freq="7" file="camera_42430333_42430338_output.xml"/>
+    <laneAreaDetector id="42430333_42430338_127693103#1_3" lane="127693103#1_3" pos="0.00" endPos="64.54" freq="7" file="camera_42430333_42430338_output.xml"/>
+    <laneAreaDetector id="42430333_42428287_167922072#1_0" lane="167922072#1_0" pos="0.00" endPos="202.81" freq="7" file="camera_42430333_42428287_output.xml"/>
+    <laneAreaDetector id="42430333_42428287_167922072#1_1" lane="167922072#1_1" pos="0.00" endPos="202.81" freq="7" file="camera_42430333_42428287_output.xml"/>
+    <laneAreaDetector id="42430333_42428287_reverse_-167922072#1_0" lane="-167922072#1_0" pos="0.00" endPos="202.81" freq="7" file="camera_42430333_42428287_reverse_output.xml"/>
+    <laneAreaDetector id="42430333_42428287_reverse_-167922072#1_1" lane="-167922072#1_1" pos="0.00" endPos="202.81" freq="7" file="camera_42430333_42428287_reverse_output.xml"/>
+    <laneAreaDetector id="42430333_42437358_511699183#2_0" lane="511699183#2_0" pos="0.00" endPos="286.72" freq="7" file="camera_42430333_42437358_output.xml"/>
+    <laneAreaDetector id="42430333_42437358_511699183#2_1" lane="511699183#2_1" pos="0.00" endPos="286.72" freq="7" file="camera_42430333_42437358_output.xml"/>
+    <laneAreaDetector id="42430333_42437358_reverse_-511699183#2_0" lane="-511699183#2_0" pos="0.00" endPos="286.72" freq="7" file="camera_42430333_42437358_reverse_output.xml"/>
+    <laneAreaDetector id="42430333_42437358_reverse_-511699183#2_1" lane="-511699183#2_1" pos="0.00" endPos="286.72" freq="7" file="camera_42430333_42437358_reverse_output.xml"/>
+    <laneAreaDetector id="42430338_42430342_127693103#4_0" lane="127693103#4_0" pos="0.00" endPos="64.66" freq="7" file="camera_42430338_42430342_output.xml"/>
+    <laneAreaDetector id="42430338_42430342_127693103#4_1" lane="127693103#4_1" pos="0.00" endPos="64.66" freq="7" file="camera_42430338_42430342_output.xml"/>
+    <laneAreaDetector id="42430338_42430342_127693103#4_2" lane="127693103#4_2" pos="0.00" endPos="64.66" freq="7" file="camera_42430338_42430342_output.xml"/>
+    <laneAreaDetector id="42430338_42430342_127693103#4_3" lane="127693103#4_3" pos="0.00" endPos="64.66" freq="7" file="camera_42430338_42430342_output.xml"/>
+    <laneAreaDetector id="42430338_42439981_226041025#1_0" lane="226041025#1_0" pos="0.00" endPos="250.10" freq="7" file="camera_42430338_42439981_output.xml"/>
+    <laneAreaDetector id="42430338_42439981_226041025#1_1" lane="226041025#1_1" pos="0.00" endPos="250.10" freq="7" file="camera_42430338_42439981_output.xml"/>
+    <laneAreaDetector id="42430338_42439981_226041025#1_2" lane="226041025#1_2" pos="0.00" endPos="250.10" freq="7" file="camera_42430338_42439981_output.xml"/>
+    <laneAreaDetector id="42430342_42443556_464515890#1_0" lane="464515890#1_0" pos="0.00" endPos="282.55" freq="7" file="camera_42430342_42443556_output.xml"/>
+    <laneAreaDetector id="42430342_42430344_464516471#1_0" lane="464516471#1_0" pos="0.00" endPos="63.34" freq="7" file="camera_42430342_42430344_output.xml"/>
+    <laneAreaDetector id="42430342_42430344_464516471#1_1" lane="464516471#1_1" pos="0.00" endPos="63.34" freq="7" file="camera_42430342_42430344_output.xml"/>
+    <laneAreaDetector id="42430342_42430344_464516471#1_2" lane="464516471#1_2" pos="0.00" endPos="63.34" freq="7" file="camera_42430342_42430344_output.xml"/>
+    <laneAreaDetector id="42430342_42430344_464516471#1_3" lane="464516471#1_3" pos="0.00" endPos="63.34" freq="7" file="camera_42430342_42430344_output.xml"/>
+    <laneAreaDetector id="42430344_42430347_464516471#4_0" lane="464516471#4_0" pos="0.00" endPos="62.62" freq="7" file="camera_42430344_42430347_output.xml"/>
+    <laneAreaDetector id="42430344_42430347_464516471#4_1" lane="464516471#4_1" pos="0.00" endPos="62.62" freq="7" file="camera_42430344_42430347_output.xml"/>
+    <laneAreaDetector id="42430344_42430347_464516471#4_2" lane="464516471#4_2" pos="0.00" endPos="62.62" freq="7" file="camera_42430344_42430347_output.xml"/>
+    <laneAreaDetector id="42430344_42430347_464516471#4_3" lane="464516471#4_3" pos="0.00" endPos="62.62" freq="7" file="camera_42430344_42430347_output.xml"/>
+    <laneAreaDetector id="42430344_42428297_1117867038#2_0" lane="1117867038#2_0" pos="0.00" endPos="248.21" freq="7" file="camera_42430344_42428297_output.xml"/>
+    <laneAreaDetector id="42430347_42434072_46522000#1_0" lane="46522000#1_0" pos="0.00" endPos="286.24" freq="7" file="camera_42430347_42434072_output.xml"/>
+    <laneAreaDetector id="42430347_42430350_464516471#9_0" lane="464516471#9_0" pos="0.00" endPos="63.12" freq="7" file="camera_42430347_42430350_output.xml"/>
+    <laneAreaDetector id="42430347_42430350_464516471#9_1" lane="464516471#9_1" pos="0.00" endPos="63.12" freq="7" file="camera_42430347_42430350_output.xml"/>
+    <laneAreaDetector id="42430347_42430350_464516471#9_2" lane="464516471#9_2" pos="0.00" endPos="63.12" freq="7" file="camera_42430347_42430350_output.xml"/>
+    <laneAreaDetector id="42430347_42430350_464516471#9_3" lane="464516471#9_3" pos="0.00" endPos="63.12" freq="7" file="camera_42430347_42430350_output.xml"/>
+    <laneAreaDetector id="42430350_42439994_5672036#4_0" lane="5672036#4_0" pos="0.00" endPos="249.08" freq="7" file="camera_42430350_42439994_output.xml"/>
+    <laneAreaDetector id="42430350_42430352_464516471#13_0" lane="464516471#13_0" pos="0.00" endPos="63.95" freq="7" file="camera_42430350_42430352_output.xml"/>
+    <laneAreaDetector id="42430350_42430352_464516471#13_1" lane="464516471#13_1" pos="0.00" endPos="63.95" freq="7" file="camera_42430350_42430352_output.xml"/>
+    <laneAreaDetector id="42430350_42430352_464516471#13_2" lane="464516471#13_2" pos="0.00" endPos="63.95" freq="7" file="camera_42430350_42430352_output.xml"/>
+    <laneAreaDetector id="42430350_42430352_464516471#13_3" lane="464516471#13_3" pos="0.00" endPos="63.95" freq="7" file="camera_42430350_42430352_output.xml"/>
+    <laneAreaDetector id="42430352_42443528_226041029#1_0" lane="226041029#1_0" pos="0.00" endPos="286.30" freq="7" file="camera_42430352_42443528_output.xml"/>
+    <laneAreaDetector id="42430352_42430356_464516471#16_0" lane="464516471#16_0" pos="0.00" endPos="64.58" freq="7" file="camera_42430352_42430356_output.xml"/>
+    <laneAreaDetector id="42430352_42430356_464516471#16_1" lane="464516471#16_1" pos="0.00" endPos="64.58" freq="7" file="camera_42430352_42430356_output.xml"/>
+    <laneAreaDetector id="42430352_42430356_464516471#16_2" lane="464516471#16_2" pos="0.00" endPos="64.58" freq="7" file="camera_42430352_42430356_output.xml"/>
+    <laneAreaDetector id="42430352_42430356_464516471#16_3" lane="464516471#16_3" pos="0.00" endPos="64.58" freq="7" file="camera_42430352_42430356_output.xml"/>
+    <laneAreaDetector id="42430356_42430358_464516471#18_0" lane="464516471#18_0" pos="0.00" endPos="63.26" freq="7" file="camera_42430356_42430358_output.xml"/>
+    <laneAreaDetector id="42430356_42430358_464516471#18_1" lane="464516471#18_1" pos="0.00" endPos="63.26" freq="7" file="camera_42430356_42430358_output.xml"/>
+    <laneAreaDetector id="42430356_42430358_464516471#18_2" lane="464516471#18_2" pos="0.00" endPos="63.26" freq="7" file="camera_42430356_42430358_output.xml"/>
+    <laneAreaDetector id="42430356_42430358_464516471#18_3" lane="464516471#18_3" pos="0.00" endPos="63.26" freq="7" file="camera_42430356_42430358_output.xml"/>
+    <laneAreaDetector id="42430356_42432585_542258337#4_0" lane="542258337#4_0" pos="0.00" endPos="244.38" freq="7" file="camera_42430356_42432585_output.xml"/>
+    <laneAreaDetector id="42430356_42432585_542258337#4_1" lane="542258337#4_1" pos="0.00" endPos="244.38" freq="7" file="camera_42430356_42432585_output.xml"/>
+    <laneAreaDetector id="42430358_42440153_5670867#1_0" lane="5670867#1_0" pos="0.00" endPos="287.47" freq="7" file="camera_42430358_42440153_output.xml"/>
+    <laneAreaDetector id="42430358_42440153_5670867#1_1" lane="5670867#1_1" pos="0.00" endPos="287.47" freq="7" file="camera_42430358_42440153_output.xml"/>
+    <laneAreaDetector id="42430358_42430361_1211049193#0_0" lane="1211049193#0_0" pos="0.00" endPos="43.72" freq="7" file="camera_42430358_42430361_output.xml"/>
+    <laneAreaDetector id="42430358_42430361_1211049193#0_1" lane="1211049193#0_1" pos="0.00" endPos="43.72" freq="7" file="camera_42430358_42430361_output.xml"/>
+    <laneAreaDetector id="42430358_42430361_1211049193#0_2" lane="1211049193#0_2" pos="0.00" endPos="43.72" freq="7" file="camera_42430358_42430361_output.xml"/>
+    <laneAreaDetector id="42430358_42430361_1211049193#0_3" lane="1211049193#0_3" pos="0.00" endPos="43.72" freq="7" file="camera_42430358_42430361_output.xml"/>
+    <laneAreaDetector id="42430361_42430363_569345537#1_0" lane="569345537#1_0" pos="0.00" endPos="61.90" freq="7" file="camera_42430361_42430363_output.xml"/>
+    <laneAreaDetector id="42430361_42430363_569345537#1_1" lane="569345537#1_1" pos="0.00" endPos="61.90" freq="7" file="camera_42430361_42430363_output.xml"/>
+    <laneAreaDetector id="42430361_42430363_569345537#1_2" lane="569345537#1_2" pos="0.00" endPos="61.90" freq="7" file="camera_42430361_42430363_output.xml"/>
+    <laneAreaDetector id="42430361_42430363_569345537#1_3" lane="569345537#1_3" pos="0.00" endPos="61.90" freq="7" file="camera_42430361_42430363_output.xml"/>
+    <laneAreaDetector id="42430361_42440004_569345538#1_0" lane="569345538#1_0" pos="0.00" endPos="244.33" freq="7" file="camera_42430361_42440004_output.xml"/>
+    <laneAreaDetector id="42430363_42430367_569345537#5_0" lane="569345537#5_0" pos="0.00" endPos="64.73" freq="7" file="camera_42430363_42430367_output.xml"/>
+    <laneAreaDetector id="42430363_42430367_569345537#5_1" lane="569345537#5_1" pos="0.00" endPos="64.73" freq="7" file="camera_42430363_42430367_output.xml"/>
+    <laneAreaDetector id="42430363_42430367_569345537#5_2" lane="569345537#5_2" pos="0.00" endPos="64.73" freq="7" file="camera_42430363_42430367_output.xml"/>
+    <laneAreaDetector id="42430363_42430367_569345537#5_3" lane="569345537#5_3" pos="0.00" endPos="64.73" freq="7" file="camera_42430363_42430367_output.xml"/>
+    <laneAreaDetector id="42430363_42446353_717625447#7_0" lane="717625447#7_0" pos="0.00" endPos="282.04" freq="7" file="camera_42430363_42446353_output.xml"/>
+    <laneAreaDetector id="42430367_42440012_420905130#1_0" lane="420905130#1_0" pos="0.00" endPos="248.38" freq="7" file="camera_42430367_42440012_output.xml"/>
+    <laneAreaDetector id="42430367_42440012_420905130#1_1" lane="420905130#1_1" pos="0.00" endPos="248.38" freq="7" file="camera_42430367_42440012_output.xml"/>
+    <laneAreaDetector id="42430367_42430371_569345537#8_0" lane="569345537#8_0" pos="0.00" endPos="63.17" freq="7" file="camera_42430367_42430371_output.xml"/>
+    <laneAreaDetector id="42430367_42430371_569345537#8_1" lane="569345537#8_1" pos="0.00" endPos="63.17" freq="7" file="camera_42430367_42430371_output.xml"/>
+    <laneAreaDetector id="42430367_42430371_569345537#8_2" lane="569345537#8_2" pos="0.00" endPos="63.17" freq="7" file="camera_42430367_42430371_output.xml"/>
+    <laneAreaDetector id="42430367_42430371_569345537#8_3" lane="569345537#8_3" pos="0.00" endPos="63.17" freq="7" file="camera_42430367_42430371_output.xml"/>
+    <laneAreaDetector id="42430371_42450426_46521993#2_0" lane="46521993#2_0" pos="0.00" endPos="288.68" freq="7" file="camera_42430371_42450426_output.xml"/>
+    <laneAreaDetector id="42430371_42450426_46521993#2_1" lane="46521993#2_1" pos="0.00" endPos="288.68" freq="7" file="camera_42430371_42450426_output.xml"/>
+    <laneAreaDetector id="42430371_42430375_569345537#11_0" lane="569345537#11_0" pos="0.00" endPos="64.50" freq="7" file="camera_42430371_42430375_output.xml"/>
+    <laneAreaDetector id="42430371_42430375_569345537#11_1" lane="569345537#11_1" pos="0.00" endPos="64.50" freq="7" file="camera_42430371_42430375_output.xml"/>
+    <laneAreaDetector id="42430371_42430375_569345537#11_2" lane="569345537#11_2" pos="0.00" endPos="64.50" freq="7" file="camera_42430371_42430375_output.xml"/>
+    <laneAreaDetector id="42430371_42430375_569345537#11_3" lane="569345537#11_3" pos="0.00" endPos="64.50" freq="7" file="camera_42430371_42430375_output.xml"/>
+    <laneAreaDetector id="42430375_42440020_499172074#1_0" lane="499172074#1_0" pos="0.00" endPos="248.39" freq="7" file="camera_42430375_42440020_output.xml"/>
+    <laneAreaDetector id="42430375_42430378_541350711#1_0" lane="541350711#1_0" pos="0.00" endPos="64.42" freq="7" file="camera_42430375_42430378_output.xml"/>
+    <laneAreaDetector id="42430375_42430378_541350711#1_1" lane="541350711#1_1" pos="0.00" endPos="64.42" freq="7" file="camera_42430375_42430378_output.xml"/>
+    <laneAreaDetector id="42430375_42430378_541350711#1_2" lane="541350711#1_2" pos="0.00" endPos="64.42" freq="7" file="camera_42430375_42430378_output.xml"/>
+    <laneAreaDetector id="42430375_42430378_541350711#1_3" lane="541350711#1_3" pos="0.00" endPos="64.42" freq="7" file="camera_42430375_42430378_output.xml"/>
+    <laneAreaDetector id="42431544_42440951_195743336#4_0" lane="195743336#4_0" pos="0.00" endPos="64.16" freq="7" file="camera_42431544_42440951_output.xml"/>
+    <laneAreaDetector id="42431544_42440951_195743336#4_1" lane="195743336#4_1" pos="0.00" endPos="64.16" freq="7" file="camera_42431544_42440951_output.xml"/>
+    <laneAreaDetector id="42431544_42440951_195743336#4_2" lane="195743336#4_2" pos="0.00" endPos="64.16" freq="7" file="camera_42431544_42440951_output.xml"/>
+    <laneAreaDetector id="42431544_42440951_195743336#4_3" lane="195743336#4_3" pos="0.00" endPos="64.16" freq="7" file="camera_42431544_42440951_output.xml"/>
+    <laneAreaDetector id="42431544_42440951_195743336#4_4" lane="195743336#4_4" pos="0.00" endPos="64.16" freq="7" file="camera_42431544_42440951_output.xml"/>
+    <laneAreaDetector id="42431549_42440020_496989355#4_0" lane="496989355#4_0" pos="0.00" endPos="65.63" freq="7" file="camera_42431549_42440020_output.xml"/>
+    <laneAreaDetector id="42431549_42440020_496989355#4_1" lane="496989355#4_1" pos="0.00" endPos="65.63" freq="7" file="camera_42431549_42440020_output.xml"/>
+    <laneAreaDetector id="42431549_42440020_496989355#4_2" lane="496989355#4_2" pos="0.00" endPos="65.63" freq="7" file="camera_42431549_42440020_output.xml"/>
+    <laneAreaDetector id="42431560_42440960_E5_0" lane="E5_0" pos="0.00" endPos="62.29" freq="7" file="camera_42431560_42440960_output.xml"/>
+    <laneAreaDetector id="42431560_42440960_E5_1" lane="E5_1" pos="0.00" endPos="62.29" freq="7" file="camera_42431560_42440960_output.xml"/>
+    <laneAreaDetector id="42431560_42440960_E5_2" lane="E5_2" pos="0.00" endPos="62.29" freq="7" file="camera_42431560_42440960_output.xml"/>
+    <laneAreaDetector id="42432580_42430356_5670114#5_0" lane="5670114#5_0" pos="0.00" endPos="286.81" freq="7" file="camera_42432580_42430356_output.xml"/>
+    <laneAreaDetector id="42432580_42443528_384178816#1_0" lane="384178816#1_0" pos="0.00" endPos="63.67" freq="7" file="camera_42432580_42443528_output.xml"/>
+    <laneAreaDetector id="42432580_42443528_384178816#1_1" lane="384178816#1_1" pos="0.00" endPos="63.67" freq="7" file="camera_42432580_42443528_output.xml"/>
+    <laneAreaDetector id="42432580_42443528_384178816#1_2" lane="384178816#1_2" pos="0.00" endPos="63.67" freq="7" file="camera_42432580_42443528_output.xml"/>
+    <laneAreaDetector id="42432580_42443528_384178816#1_3" lane="384178816#1_3" pos="0.00" endPos="63.67" freq="7" file="camera_42432580_42443528_output.xml"/>
+    <laneAreaDetector id="42432585_42439996_569345540#4_0" lane="569345540#4_0" pos="0.00" endPos="64.26" freq="7" file="camera_42432585_42439996_output.xml"/>
+    <laneAreaDetector id="42432585_42439996_569345540#4_1" lane="569345540#4_1" pos="0.00" endPos="64.26" freq="7" file="camera_42432585_42439996_output.xml"/>
+    <laneAreaDetector id="42432585_42439996_569345540#4_2" lane="569345540#4_2" pos="0.00" endPos="64.26" freq="7" file="camera_42432585_42439996_output.xml"/>
+    <laneAreaDetector id="42432585_42428307_1320234484#1_0" lane="1320234484#1_0" pos="0.00" endPos="59.08" freq="7" file="camera_42432585_42428307_output.xml"/>
+    <laneAreaDetector id="42432589_42435684_420907906#1_0" lane="420907906#1_0" pos="0.00" endPos="63.27" freq="7" file="camera_42432589_42435684_output.xml"/>
+    <laneAreaDetector id="42432589_42435684_420907906#1_1" lane="420907906#1_1" pos="0.00" endPos="63.27" freq="7" file="camera_42432589_42435684_output.xml"/>
+    <laneAreaDetector id="42432589_42435684_420907906#1_2" lane="420907906#1_2" pos="0.00" endPos="63.27" freq="7" file="camera_42432589_42435684_output.xml"/>
+    <laneAreaDetector id="42432589_42432594_1320234484#11_0" lane="1320234484#11_0" pos="0.00" endPos="244.37" freq="7" file="camera_42432589_42432594_output.xml"/>
+    <laneAreaDetector id="42432594_42432598_46443656#1_0" lane="46443656#1_0" pos="0.00" endPos="248.45" freq="7" file="camera_42432594_42432598_output.xml"/>
+    <laneAreaDetector id="42432594_42443532_1025734020#1_0" lane="1025734020#1_0" pos="0.00" endPos="64.95" freq="7" file="camera_42432594_42443532_output.xml"/>
+    <laneAreaDetector id="42432594_42443532_1025734020#1_1" lane="1025734020#1_1" pos="0.00" endPos="64.95" freq="7" file="camera_42432594_42443532_output.xml"/>
+    <laneAreaDetector id="42432594_42443532_1025734020#1_2" lane="1025734020#1_2" pos="0.00" endPos="64.95" freq="7" file="camera_42432594_42443532_output.xml"/>
+    <laneAreaDetector id="42432594_42443532_1025734020#1_3" lane="1025734020#1_3" pos="0.00" endPos="64.95" freq="7" file="camera_42432594_42443532_output.xml"/>
+    <laneAreaDetector id="42432693_42443556_438397345#1_0" lane="438397345#1_0" pos="0.00" endPos="63.47" freq="7" file="camera_42432693_42443556_output.xml"/>
+    <laneAreaDetector id="42432693_42443556_438397345#1_1" lane="438397345#1_1" pos="0.00" endPos="63.47" freq="7" file="camera_42432693_42443556_output.xml"/>
+    <laneAreaDetector id="42432693_42443556_438397345#1_2" lane="438397345#1_2" pos="0.00" endPos="63.47" freq="7" file="camera_42432693_42443556_output.xml"/>
+    <laneAreaDetector id="42432693_42443556_438397345#1_3" lane="438397345#1_3" pos="0.00" endPos="63.47" freq="7" file="camera_42432693_42443556_output.xml"/>
+    <laneAreaDetector id="42432693_42430344_5670124_0" lane="5670124_0" pos="0.00" endPos="281.48" freq="7" file="camera_42432693_42430344_output.xml"/>
+    <laneAreaDetector id="42432693_42430344_5670124_1" lane="5670124_1" pos="0.00" endPos="281.48" freq="7" file="camera_42432693_42430344_output.xml"/>
+    <laneAreaDetector id="42432700_42435675_194926851#1_0" lane="194926851#1_0" pos="0.00" endPos="64.21" freq="7" file="camera_42432700_42435675_output.xml"/>
+    <laneAreaDetector id="42432700_42435675_194926851#1_1" lane="194926851#1_1" pos="0.00" endPos="64.21" freq="7" file="camera_42432700_42435675_output.xml"/>
+    <laneAreaDetector id="42432700_42435675_194926851#1_2" lane="194926851#1_2" pos="0.00" endPos="64.21" freq="7" file="camera_42432700_42435675_output.xml"/>
+    <laneAreaDetector id="42432700_42432703_1198594028#1_0" lane="1198594028#1_0" pos="0.00" endPos="243.10" freq="7" file="camera_42432700_42432703_output.xml"/>
+    <laneAreaDetector id="42432703_42432706_968513230#1_0" lane="968513230#1_0" pos="0.00" endPos="250.18" freq="7" file="camera_42432703_42432706_output.xml"/>
+    <laneAreaDetector id="42432703_42443561_968513228#0_0" lane="968513228#0_0" pos="0.00" endPos="65.09" freq="7" file="camera_42432703_42443561_output.xml"/>
+    <laneAreaDetector id="42432703_42443561_968513228#0_1" lane="968513228#0_1" pos="0.00" endPos="65.09" freq="7" file="camera_42432703_42443561_output.xml"/>
+    <laneAreaDetector id="42432703_42443561_968513228#0_2" lane="968513228#0_2" pos="0.00" endPos="65.09" freq="7" file="camera_42432703_42443561_output.xml"/>
+    <laneAreaDetector id="42432703_42443561_968513228#0_3" lane="968513228#0_3" pos="0.00" endPos="65.09" freq="7" file="camera_42432703_42443561_output.xml"/>
+    <laneAreaDetector id="42434072_42434074_5670225#1_0" lane="5670225#1_0" pos="0.00" endPos="132.99" freq="7" file="camera_42434072_42434074_output.xml"/>
+    <laneAreaDetector id="42434072_42432693_458180183#1_0" lane="458180183#1_0" pos="0.00" endPos="64.37" freq="7" file="camera_42434072_42432693_output.xml"/>
+    <laneAreaDetector id="42434072_42432693_458180183#1_1" lane="458180183#1_1" pos="0.00" endPos="64.37" freq="7" file="camera_42434072_42432693_output.xml"/>
+    <laneAreaDetector id="42434072_42432693_458180183#1_2" lane="458180183#1_2" pos="0.00" endPos="64.37" freq="7" file="camera_42434072_42432693_output.xml"/>
+    <laneAreaDetector id="42434072_42432693_458180183#1_3" lane="458180183#1_3" pos="0.00" endPos="64.37" freq="7" file="camera_42434072_42432693_output.xml"/>
+    <laneAreaDetector id="42434072_42432693_458180183#1_4" lane="458180183#1_4" pos="0.00" endPos="64.37" freq="7" file="camera_42434072_42432693_output.xml"/>
+    <laneAreaDetector id="42434434_42434439_273895449#1_0" lane="273895449#1_0" pos="0.00" endPos="53.96" freq="7" file="camera_42434434_42434439_output.xml"/>
+    <laneAreaDetector id="42434434_42434439_273895449#1_1" lane="273895449#1_1" pos="0.00" endPos="53.96" freq="7" file="camera_42434434_42434439_output.xml"/>
+    <laneAreaDetector id="42434439_42437371_-420904618#1_0" lane="-420904618#1_0" pos="0.00" endPos="128.28" freq="7" file="camera_42434439_42437371_output.xml"/>
+    <laneAreaDetector id="42434439_42437371_-420904618#1_1" lane="-420904618#1_1" pos="0.00" endPos="128.28" freq="7" file="camera_42434439_42437371_output.xml"/>
+    <laneAreaDetector id="42434439_42437371_reverse_420904618#1_0" lane="420904618#1_0" pos="0.00" endPos="128.28" freq="7" file="camera_42434439_42437371_reverse_output.xml"/>
+    <laneAreaDetector id="42434439_42437371_reverse_420904618#1_1" lane="420904618#1_1" pos="0.00" endPos="128.28" freq="7" file="camera_42434439_42437371_reverse_output.xml"/>
+    <laneAreaDetector id="42434439_42437368_-1320549615#1_0" lane="-1320549615#1_0" pos="0.00" endPos="100.40" freq="7" file="camera_42434439_42437368_output.xml"/>
+    <laneAreaDetector id="42434439_42437368_-1320549615#1_1" lane="-1320549615#1_1" pos="0.00" endPos="100.40" freq="7" file="camera_42434439_42437368_output.xml"/>
+    <laneAreaDetector id="42434439_42437368_reverse_1320549615#1_0" lane="1320549615#1_0" pos="0.00" endPos="100.40" freq="7" file="camera_42434439_42437368_reverse_output.xml"/>
+    <laneAreaDetector id="42434439_42437368_reverse_1320549615#1_1" lane="1320549615#1_1" pos="0.00" endPos="100.40" freq="7" file="camera_42434439_42437368_reverse_output.xml"/>
+    <laneAreaDetector id="42435660_42435663_420907902#0_0" lane="420907902#0_0" pos="0.00" endPos="30.77" freq="7" file="camera_42435660_42435663_output.xml"/>
+    <laneAreaDetector id="42435660_42435663_420907902#0_1" lane="420907902#0_1" pos="0.00" endPos="30.77" freq="7" file="camera_42435660_42435663_output.xml"/>
+    <laneAreaDetector id="42435660_42435663_420907902#0_2" lane="420907902#0_2" pos="0.00" endPos="30.77" freq="7" file="camera_42435660_42435663_output.xml"/>
+    <laneAreaDetector id="42435660_42435663_420907902#0_3" lane="420907902#0_3" pos="0.00" endPos="30.77" freq="7" file="camera_42435660_42435663_output.xml"/>
+    <laneAreaDetector id="42435663_5849918504_125480075#1_0" lane="125480075#1_0" pos="0.00" endPos="64.82" freq="7" file="camera_42435663_5849918504_output.xml"/>
+    <laneAreaDetector id="42435663_5849918504_125480075#1_1" lane="125480075#1_1" pos="0.00" endPos="64.82" freq="7" file="camera_42435663_5849918504_output.xml"/>
+    <laneAreaDetector id="42435663_5849918504_125480075#1_2" lane="125480075#1_2" pos="0.00" endPos="64.82" freq="7" file="camera_42435663_5849918504_output.xml"/>
+    <laneAreaDetector id="42435663_5849918504_125480075#1_3" lane="125480075#1_3" pos="0.00" endPos="64.82" freq="7" file="camera_42435663_5849918504_output.xml"/>
+    <laneAreaDetector id="42435663_42437363_525729008#1_0" lane="525729008#1_0" pos="0.00" endPos="249.51" freq="7" file="camera_42435663_42437363_output.xml"/>
+    <laneAreaDetector id="42435663_42437363_525729008#1_1" lane="525729008#1_1" pos="0.00" endPos="249.51" freq="7" file="camera_42435663_42437363_output.xml"/>
+    <laneAreaDetector id="42435663_42437363_reverse_-525729008#1_0" lane="-525729008#1_0" pos="0.00" endPos="249.50" freq="7" file="camera_42435663_42437363_reverse_output.xml"/>
+    <laneAreaDetector id="42435663_42437363_reverse_-525729008#1_1" lane="-525729008#1_1" pos="0.00" endPos="249.50" freq="7" file="camera_42435663_42437363_reverse_output.xml"/>
+    <laneAreaDetector id="42435663_42437368_1321771943#1_0" lane="1321771943#1_0" pos="0.00" endPos="248.42" freq="7" file="camera_42435663_42437368_output.xml"/>
+    <laneAreaDetector id="42435663_42437368_1321771943#1_1" lane="1321771943#1_1" pos="0.00" endPos="248.42" freq="7" file="camera_42435663_42437368_output.xml"/>
+    <laneAreaDetector id="42435663_42437368_reverse_-1321771943#1_0" lane="-1321771943#1_0" pos="0.00" endPos="248.42" freq="7" file="camera_42435663_42437368_reverse_output.xml"/>
+    <laneAreaDetector id="42435663_42437368_reverse_-1321771943#1_1" lane="-1321771943#1_1" pos="0.00" endPos="248.42" freq="7" file="camera_42435663_42437368_reverse_output.xml"/>
+    <laneAreaDetector id="42435663_42437368_reverse_-1321771943#1_2" lane="-1321771943#1_2" pos="0.00" endPos="248.42" freq="7" file="camera_42435663_42437368_reverse_output.xml"/>
+    <laneAreaDetector id="42435671_42439984_1198594027#1_0" lane="1198594027#1_0" pos="0.00" endPos="246.07" freq="7" file="camera_42435671_42439984_output.xml"/>
+    <laneAreaDetector id="42435671_42432700_1198594029#0_0" lane="1198594029#0_0" pos="0.00" endPos="60.70" freq="7" file="camera_42435671_42432700_output.xml"/>
+    <laneAreaDetector id="42435671_42432700_1198594029#0_1" lane="1198594029#0_1" pos="0.00" endPos="60.70" freq="7" file="camera_42435671_42432700_output.xml"/>
+    <laneAreaDetector id="42435671_42432700_1198594029#0_2" lane="1198594029#0_2" pos="0.00" endPos="60.70" freq="7" file="camera_42435671_42432700_output.xml"/>
+    <laneAreaDetector id="42435675_42439990_846142553#1_0" lane="846142553#1_0" pos="0.00" endPos="249.58" freq="7" file="camera_42435675_42439990_output.xml"/>
+    <laneAreaDetector id="42435675_42435677_1198594030#1_0" lane="1198594030#1_0" pos="0.00" endPos="60.49" freq="7" file="camera_42435675_42435677_output.xml"/>
+    <laneAreaDetector id="42435675_42435677_1198594030#1_1" lane="1198594030#1_1" pos="0.00" endPos="60.49" freq="7" file="camera_42435675_42435677_output.xml"/>
+    <laneAreaDetector id="42435675_42435677_1198594030#1_2" lane="1198594030#1_2" pos="0.00" endPos="60.49" freq="7" file="camera_42435675_42435677_output.xml"/>
+    <laneAreaDetector id="42435677_42445020_452322756#5_0" lane="452322756#5_0" pos="0.00" endPos="246.96" freq="7" file="camera_42435677_42445020_output.xml"/>
+    <laneAreaDetector id="42435677_42435680_1027189507#1_0" lane="1027189507#1_0" pos="0.00" endPos="64.16" freq="7" file="camera_42435677_42435680_output.xml"/>
+    <laneAreaDetector id="42435677_42435680_1027189507#1_1" lane="1027189507#1_1" pos="0.00" endPos="64.16" freq="7" file="camera_42435677_42435680_output.xml"/>
+    <laneAreaDetector id="42435680_42428305_226041028#1_0" lane="226041028#1_0" pos="0.00" endPos="187.25" freq="7" file="camera_42435680_42428305_output.xml"/>
+    <laneAreaDetector id="42435680_42428305_226041028#1_1" lane="226041028#1_1" pos="0.00" endPos="187.25" freq="7" file="camera_42435680_42428305_output.xml"/>
+    <laneAreaDetector id="42435680_42432589_420907903#0_0" lane="420907903#0_0" pos="0.00" endPos="59.97" freq="7" file="camera_42435680_42432589_output.xml"/>
+    <laneAreaDetector id="42435680_42432589_420907903#0_1" lane="420907903#0_1" pos="0.00" endPos="59.97" freq="7" file="camera_42435680_42432589_output.xml"/>
+    <laneAreaDetector id="42435680_42432589_420907903#0_2" lane="420907903#0_2" pos="0.00" endPos="59.97" freq="7" file="camera_42435680_42432589_output.xml"/>
+    <laneAreaDetector id="42435680_42432589_420907903#0_3" lane="420907903#0_3" pos="0.00" endPos="59.97" freq="7" file="camera_42435680_42432589_output.xml"/>
+    <laneAreaDetector id="42435684_42435687_1207834765#1_0" lane="1207834765#1_0" pos="0.00" endPos="64.35" freq="7" file="camera_42435684_42435687_output.xml"/>
+    <laneAreaDetector id="42435684_42435687_1207834765#1_1" lane="1207834765#1_1" pos="0.00" endPos="64.35" freq="7" file="camera_42435684_42435687_output.xml"/>
+    <laneAreaDetector id="42435684_42435687_1207834765#1_2" lane="1207834765#1_2" pos="0.00" endPos="64.35" freq="7" file="camera_42435684_42435687_output.xml"/>
+    <laneAreaDetector id="42435684_42435687_1207834765#1_3" lane="1207834765#1_3" pos="0.00" endPos="64.35" freq="7" file="camera_42435684_42435687_output.xml"/>
+    <laneAreaDetector id="42435684_42428308_194920158#15_0" lane="194920158#15_0" pos="0.00" endPos="171.78" freq="7" file="camera_42435684_42428308_output.xml"/>
+    <laneAreaDetector id="42435684_42428308_194920158#15_1" lane="194920158#15_1" pos="0.00" endPos="171.78" freq="7" file="camera_42435684_42428308_output.xml"/>
+    <laneAreaDetector id="42435687_42445025_663612299#1_0" lane="663612299#1_0" pos="0.00" endPos="248.28" freq="7" file="camera_42435687_42445025_output.xml"/>
+    <laneAreaDetector id="42435687_42435702_1027189509#0_0" lane="1027189509#0_0" pos="0.00" endPos="64.85" freq="7" file="camera_42435687_42435702_output.xml"/>
+    <laneAreaDetector id="42435687_42435702_1027189509#0_1" lane="1027189509#0_1" pos="0.00" endPos="64.85" freq="7" file="camera_42435687_42435702_output.xml"/>
+    <laneAreaDetector id="42435687_42435702_1027189509#0_2" lane="1027189509#0_2" pos="0.00" endPos="64.85" freq="7" file="camera_42435687_42435702_output.xml"/>
+    <laneAreaDetector id="42435687_42435702_1027189509#0_3" lane="1027189509#0_3" pos="0.00" endPos="64.85" freq="7" file="camera_42435687_42435702_output.xml"/>
+    <laneAreaDetector id="42435687_42435702_1027189509#0_4" lane="1027189509#0_4" pos="0.00" endPos="64.85" freq="7" file="camera_42435687_42435702_output.xml"/>
+    <laneAreaDetector id="42435702_42428312_965833822#12_0" lane="965833822#12_0" pos="0.00" endPos="165.84" freq="7" file="camera_42435702_42428312_output.xml"/>
+    <laneAreaDetector id="42435702_42435705_1027189509#3_0" lane="1027189509#3_0" pos="0.00" endPos="51.16" freq="7" file="camera_42435702_42435705_output.xml"/>
+    <laneAreaDetector id="42435702_42435705_1027189509#3_1" lane="1027189509#3_1" pos="0.00" endPos="51.16" freq="7" file="camera_42435702_42435705_output.xml"/>
+    <laneAreaDetector id="42435702_42435705_1027189509#3_2" lane="1027189509#3_2" pos="0.00" endPos="51.16" freq="7" file="camera_42435702_42435705_output.xml"/>
+    <laneAreaDetector id="42435702_42435705_1027189509#3_3" lane="1027189509#3_3" pos="0.00" endPos="51.16" freq="7" file="camera_42435702_42435705_output.xml"/>
+    <laneAreaDetector id="42435702_42435705_1027189509#3_4" lane="1027189509#3_4" pos="0.00" endPos="51.16" freq="7" file="camera_42435702_42435705_output.xml"/>
+    <laneAreaDetector id="42435705_42435707_420890028#1_0" lane="420890028#1_0" pos="0.00" endPos="64.68" freq="7" file="camera_42435705_42435707_output.xml"/>
+    <laneAreaDetector id="42435705_42435707_420890028#1_1" lane="420890028#1_1" pos="0.00" endPos="64.68" freq="7" file="camera_42435705_42435707_output.xml"/>
+    <laneAreaDetector id="42435705_42435707_420890028#1_2" lane="420890028#1_2" pos="0.00" endPos="64.68" freq="7" file="camera_42435705_42435707_output.xml"/>
+    <laneAreaDetector id="42435705_42435707_420890028#1_3" lane="420890028#1_3" pos="0.00" endPos="64.68" freq="7" file="camera_42435705_42435707_output.xml"/>
+    <laneAreaDetector id="42435705_42435707_420890028#1_4" lane="420890028#1_4" pos="0.00" endPos="64.68" freq="7" file="camera_42435705_42435707_output.xml"/>
+    <laneAreaDetector id="42435705_1815133244_812949647#5_0" lane="812949647#5_0" pos="0.00" endPos="247.81" freq="7" file="camera_42435705_1815133244_output.xml"/>
+    <laneAreaDetector id="42435705_1815133244_812949647#5_1" lane="812949647#5_1" pos="0.00" endPos="247.81" freq="7" file="camera_42435705_1815133244_output.xml"/>
+    <laneAreaDetector id="42435707_42428315_324118558#1_0" lane="324118558#1_0" pos="0.00" endPos="148.82" freq="7" file="camera_42435707_42428315_output.xml"/>
+    <laneAreaDetector id="42435707_42428315_324118558#1_1" lane="324118558#1_1" pos="0.00" endPos="148.82" freq="7" file="camera_42435707_42428315_output.xml"/>
+    <laneAreaDetector id="42435707_42435710_420890025#1_0" lane="420890025#1_0" pos="0.00" endPos="52.98" freq="7" file="camera_42435707_42435710_output.xml"/>
+    <laneAreaDetector id="42435707_42435710_420890025#1_1" lane="420890025#1_1" pos="0.00" endPos="52.98" freq="7" file="camera_42435707_42435710_output.xml"/>
+    <laneAreaDetector id="42435707_42435710_420890025#1_2" lane="420890025#1_2" pos="0.00" endPos="52.98" freq="7" file="camera_42435707_42435710_output.xml"/>
+    <laneAreaDetector id="42435707_42435710_420890025#1_3" lane="420890025#1_3" pos="0.00" endPos="52.98" freq="7" file="camera_42435707_42435710_output.xml"/>
+    <laneAreaDetector id="42435707_42435710_420890025#1_4" lane="420890025#1_4" pos="0.00" endPos="52.98" freq="7" file="camera_42435707_42435710_output.xml"/>
+    <laneAreaDetector id="42435710_42431556_E2_0" lane="E2_0" pos="0.00" endPos="59.54" freq="7" file="camera_42435710_42431556_output.xml"/>
+    <laneAreaDetector id="42435710_42431556_E2_1" lane="E2_1" pos="0.00" endPos="59.54" freq="7" file="camera_42435710_42431556_output.xml"/>
+    <laneAreaDetector id="42435710_42431556_E2_2" lane="E2_2" pos="0.00" endPos="59.54" freq="7" file="camera_42435710_42431556_output.xml"/>
+    <laneAreaDetector id="42435710_42431556_E2_3" lane="E2_3" pos="0.00" endPos="59.54" freq="7" file="camera_42435710_42431556_output.xml"/>
+    <laneAreaDetector id="42435710_42431556_E2_4" lane="E2_4" pos="0.00" endPos="59.54" freq="7" file="camera_42435710_42431556_output.xml"/>
+    <laneAreaDetector id="42435710_42440960_499172074#14_0" lane="499172074#14_0" pos="0.00" endPos="248.73" freq="7" file="camera_42435710_42440960_output.xml"/>
+    <laneAreaDetector id="42436700_42430367_5671709#1_0" lane="5671709#1_0" pos="0.00" endPos="287.90" freq="7" file="camera_42436700_42430367_output.xml"/>
+    <laneAreaDetector id="42436700_42430367_5671709#1_1" lane="5671709#1_1" pos="0.00" endPos="287.90" freq="7" file="camera_42436700_42430367_output.xml"/>
+    <laneAreaDetector id="42436700_42446353_458180191#1_0" lane="458180191#1_0" pos="0.00" endPos="65.36" freq="7" file="camera_42436700_42446353_output.xml"/>
+    <laneAreaDetector id="42436700_42446353_458180191#1_1" lane="458180191#1_1" pos="0.00" endPos="65.36" freq="7" file="camera_42436700_42446353_output.xml"/>
+    <laneAreaDetector id="42436700_42446353_458180191#1_2" lane="458180191#1_2" pos="0.00" endPos="65.36" freq="7" file="camera_42436700_42446353_output.xml"/>
+    <laneAreaDetector id="42436700_42446353_458180191#1_3" lane="458180191#1_3" pos="0.00" endPos="65.36" freq="7" file="camera_42436700_42446353_output.xml"/>
+    <laneAreaDetector id="42436701_42436700_420281338#1_0" lane="420281338#1_0" pos="0.00" endPos="133.23" freq="7" file="camera_42436701_42436700_output.xml"/>
+    <laneAreaDetector id="42436701_42436700_420281338#1_1" lane="420281338#1_1" pos="0.00" endPos="133.23" freq="7" file="camera_42436701_42436700_output.xml"/>
+    <laneAreaDetector id="42437358_42430333_511699183#2_0" lane="511699183#2_0" pos="0.00" endPos="286.72" freq="7" file="camera_42437358_42430333_output.xml"/>
+    <laneAreaDetector id="42437358_42430333_511699183#2_1" lane="511699183#2_1" pos="0.00" endPos="286.72" freq="7" file="camera_42437358_42430333_output.xml"/>
+    <laneAreaDetector id="42437358_42430333_reverse_-511699183#2_0" lane="-511699183#2_0" pos="0.00" endPos="286.72" freq="7" file="camera_42437358_42430333_reverse_output.xml"/>
+    <laneAreaDetector id="42437358_42430333_reverse_-511699183#2_1" lane="-511699183#2_1" pos="0.00" endPos="286.72" freq="7" file="camera_42437358_42430333_reverse_output.xml"/>
+    <laneAreaDetector id="42437358_42432436_511699185#1_0" lane="511699185#1_0" pos="0.00" endPos="64.31" freq="7" file="camera_42437358_42432436_output.xml"/>
+    <laneAreaDetector id="42437358_42432436_511699185#1_1" lane="511699185#1_1" pos="0.00" endPos="64.31" freq="7" file="camera_42437358_42432436_output.xml"/>
+    <laneAreaDetector id="42437358_42432436_511699185#1_2" lane="511699185#1_2" pos="0.00" endPos="64.31" freq="7" file="camera_42437358_42432436_output.xml"/>
+    <laneAreaDetector id="42437358_42432436_511699185#1_3" lane="511699185#1_3" pos="0.00" endPos="64.31" freq="7" file="camera_42437358_42432436_output.xml"/>
+    <laneAreaDetector id="42437358_42432436_511699185#1_4" lane="511699185#1_4" pos="0.00" endPos="64.31" freq="7" file="camera_42437358_42432436_output.xml"/>
+    <laneAreaDetector id="42437358_42445916_1272613981#1_0" lane="1272613981#1_0" pos="0.00" endPos="285.36" freq="7" file="camera_42437358_42445916_output.xml"/>
+    <laneAreaDetector id="42437358_42445916_1272613981#1_1" lane="1272613981#1_1" pos="0.00" endPos="285.36" freq="7" file="camera_42437358_42445916_output.xml"/>
+    <laneAreaDetector id="42437358_42445916_1272613981#1_2" lane="1272613981#1_2" pos="0.00" endPos="285.36" freq="7" file="camera_42437358_42445916_output.xml"/>
+    <laneAreaDetector id="42437358_42445916_reverse_-1272613981#1_0" lane="-1272613981#1_0" pos="0.00" endPos="285.36" freq="7" file="camera_42437358_42445916_reverse_output.xml"/>
+    <laneAreaDetector id="42437358_42445916_reverse_-1272613981#1_1" lane="-1272613981#1_1" pos="0.00" endPos="285.36" freq="7" file="camera_42437358_42445916_reverse_output.xml"/>
+    <laneAreaDetector id="42437363_42439972_167922070#1_0" lane="167922070#1_0" pos="0.00" endPos="65.62" freq="7" file="camera_42437363_42439972_output.xml"/>
+    <laneAreaDetector id="42437363_42439972_167922070#1_1" lane="167922070#1_1" pos="0.00" endPos="65.62" freq="7" file="camera_42437363_42439972_output.xml"/>
+    <laneAreaDetector id="42437363_42439972_167922070#1_2" lane="167922070#1_2" pos="0.00" endPos="65.62" freq="7" file="camera_42437363_42439972_output.xml"/>
+    <laneAreaDetector id="42437363_42428287_167922076#1_0" lane="167922076#1_0" pos="0.00" endPos="35.93" freq="7" file="camera_42437363_42428287_output.xml"/>
+    <laneAreaDetector id="42437363_42428287_167922076#1_1" lane="167922076#1_1" pos="0.00" endPos="35.93" freq="7" file="camera_42437363_42428287_output.xml"/>
+    <laneAreaDetector id="42437363_42428287_reverse_-167922076#1_0" lane="-167922076#1_0" pos="0.00" endPos="35.93" freq="7" file="camera_42437363_42428287_reverse_output.xml"/>
+    <laneAreaDetector id="42437363_42428287_reverse_-167922076#1_1" lane="-167922076#1_1" pos="0.00" endPos="35.93" freq="7" file="camera_42437363_42428287_reverse_output.xml"/>
+    <laneAreaDetector id="42437363_42435663_525729008#1_0" lane="525729008#1_0" pos="0.00" endPos="249.51" freq="7" file="camera_42437363_42435663_output.xml"/>
+    <laneAreaDetector id="42437363_42435663_525729008#1_1" lane="525729008#1_1" pos="0.00" endPos="249.51" freq="7" file="camera_42437363_42435663_output.xml"/>
+    <laneAreaDetector id="42437363_42435663_reverse_-525729008#1_0" lane="-525729008#1_0" pos="0.00" endPos="249.50" freq="7" file="camera_42437363_42435663_reverse_output.xml"/>
+    <laneAreaDetector id="42437363_42435663_reverse_-525729008#1_1" lane="-525729008#1_1" pos="0.00" endPos="249.50" freq="7" file="camera_42437363_42435663_reverse_output.xml"/>
+    <laneAreaDetector id="42437368_42434439_-1320549615#1_0" lane="-1320549615#1_0" pos="0.00" endPos="100.40" freq="7" file="camera_42437368_42434439_output.xml"/>
+    <laneAreaDetector id="42437368_42434439_-1320549615#1_1" lane="-1320549615#1_1" pos="0.00" endPos="100.40" freq="7" file="camera_42437368_42434439_output.xml"/>
+    <laneAreaDetector id="42437368_42434439_reverse_1320549615#1_0" lane="1320549615#1_0" pos="0.00" endPos="100.40" freq="7" file="camera_42437368_42434439_reverse_output.xml"/>
+    <laneAreaDetector id="42437368_42434439_reverse_1320549615#1_1" lane="1320549615#1_1" pos="0.00" endPos="100.40" freq="7" file="camera_42437368_42434439_reverse_output.xml"/>
+    <laneAreaDetector id="42437368_42445001_525729009#1_0" lane="525729009#1_0" pos="0.00" endPos="53.32" freq="7" file="camera_42437368_42445001_output.xml"/>
+    <laneAreaDetector id="42437368_42445001_525729009#1_1" lane="525729009#1_1" pos="0.00" endPos="53.32" freq="7" file="camera_42437368_42445001_output.xml"/>
+    <laneAreaDetector id="42437368_42445001_525729009#1_2" lane="525729009#1_2" pos="0.00" endPos="53.32" freq="7" file="camera_42437368_42445001_output.xml"/>
+    <laneAreaDetector id="42437368_42445001_525729009#1_3" lane="525729009#1_3" pos="0.00" endPos="53.32" freq="7" file="camera_42437368_42445001_output.xml"/>
+    <laneAreaDetector id="42437368_42445001_525729009#1_4" lane="525729009#1_4" pos="0.00" endPos="53.32" freq="7" file="camera_42437368_42445001_output.xml"/>
+    <laneAreaDetector id="42437368_42435663_1321771943#1_0" lane="1321771943#1_0" pos="0.00" endPos="248.42" freq="7" file="camera_42437368_42435663_output.xml"/>
+    <laneAreaDetector id="42437368_42435663_1321771943#1_1" lane="1321771943#1_1" pos="0.00" endPos="248.42" freq="7" file="camera_42437368_42435663_output.xml"/>
+    <laneAreaDetector id="42437368_42435663_reverse_-1321771943#1_0" lane="-1321771943#1_0" pos="0.00" endPos="248.42" freq="7" file="camera_42437368_42435663_reverse_output.xml"/>
+    <laneAreaDetector id="42437368_42435663_reverse_-1321771943#1_1" lane="-1321771943#1_1" pos="0.00" endPos="248.42" freq="7" file="camera_42437368_42435663_reverse_output.xml"/>
+    <laneAreaDetector id="42437368_42435663_reverse_-1321771943#1_2" lane="-1321771943#1_2" pos="0.00" endPos="248.42" freq="7" file="camera_42437368_42435663_reverse_output.xml"/>
+    <laneAreaDetector id="42437371_42434439_-420904618#1_0" lane="-420904618#1_0" pos="0.00" endPos="128.28" freq="7" file="camera_42437371_42434439_output.xml"/>
+    <laneAreaDetector id="42437371_42434439_-420904618#1_1" lane="-420904618#1_1" pos="0.00" endPos="128.28" freq="7" file="camera_42437371_42434439_output.xml"/>
+    <laneAreaDetector id="42437371_42434439_reverse_420904618#1_0" lane="420904618#1_0" pos="0.00" endPos="128.28" freq="7" file="camera_42437371_42434439_reverse_output.xml"/>
+    <laneAreaDetector id="42437371_42434439_reverse_420904618#1_1" lane="420904618#1_1" pos="0.00" endPos="128.28" freq="7" file="camera_42437371_42434439_reverse_output.xml"/>
+    <laneAreaDetector id="42438881_42432580_458180184#0_0" lane="458180184#0_0" pos="0.00" endPos="128.51" freq="7" file="camera_42438881_42432580_output.xml"/>
+    <laneAreaDetector id="42438881_42432580_458180184#0_1" lane="458180184#0_1" pos="0.00" endPos="128.51" freq="7" file="camera_42438881_42432580_output.xml"/>
+    <laneAreaDetector id="42438881_42432580_458180184#0_2" lane="458180184#0_2" pos="0.00" endPos="128.51" freq="7" file="camera_42438881_42432580_output.xml"/>
+    <laneAreaDetector id="42439981_5849918504_569345543#1_0" lane="569345543#1_0" pos="0.00" endPos="247.47" freq="7" file="camera_42439981_5849918504_output.xml"/>
+    <laneAreaDetector id="42439981_5849918504_569345543#1_1" lane="569345543#1_1" pos="0.00" endPos="247.47" freq="7" file="camera_42439981_5849918504_output.xml"/>
+    <laneAreaDetector id="42439981_42437363_569345544#1_0" lane="569345544#1_0" pos="0.00" endPos="64.81" freq="7" file="camera_42439981_42437363_output.xml"/>
+    <laneAreaDetector id="42439981_42437363_569345544#1_1" lane="569345544#1_1" pos="0.00" endPos="64.81" freq="7" file="camera_42439981_42437363_output.xml"/>
+    <laneAreaDetector id="42439981_42437363_569345544#1_2" lane="569345544#1_2" pos="0.00" endPos="64.81" freq="7" file="camera_42439981_42437363_output.xml"/>
+    <laneAreaDetector id="42439981_42437363_569345544#1_3" lane="569345544#1_3" pos="0.00" endPos="64.81" freq="7" file="camera_42439981_42437363_output.xml"/>
+    <laneAreaDetector id="42439984_42439981_397795464#1_0" lane="397795464#1_0" pos="0.00" endPos="54.43" freq="7" file="camera_42439984_42439981_output.xml"/>
+    <laneAreaDetector id="42439984_42439981_397795464#1_1" lane="397795464#1_1" pos="0.00" endPos="54.43" freq="7" file="camera_42439984_42439981_output.xml"/>
+    <laneAreaDetector id="42439984_42439981_397795464#1_2" lane="397795464#1_2" pos="0.00" endPos="54.43" freq="7" file="camera_42439984_42439981_output.xml"/>
+    <laneAreaDetector id="42439984_42439981_397795464#1_3" lane="397795464#1_3" pos="0.00" endPos="54.43" freq="7" file="camera_42439984_42439981_output.xml"/>
+    <laneAreaDetector id="42439984_42430342_226041026#0_0" lane="226041026#0_0" pos="0.00" endPos="251.27" freq="7" file="camera_42439984_42430342_output.xml"/>
+    <laneAreaDetector id="42439990_42428297_569345542#0_0" lane="569345542#0_0" pos="0.00" endPos="61.45" freq="7" file="camera_42439990_42428297_output.xml"/>
+    <laneAreaDetector id="42439990_42428297_569345542#0_1" lane="569345542#0_1" pos="0.00" endPos="61.45" freq="7" file="camera_42439990_42428297_output.xml"/>
+    <laneAreaDetector id="42439990_42428297_569345542#0_2" lane="569345542#0_2" pos="0.00" endPos="61.45" freq="7" file="camera_42439990_42428297_output.xml"/>
+    <laneAreaDetector id="42439990_42428297_569345542#0_3" lane="569345542#0_3" pos="0.00" endPos="61.45" freq="7" file="camera_42439990_42428297_output.xml"/>
+    <laneAreaDetector id="42439990_42428297_569345542#0_4" lane="569345542#0_4" pos="0.00" endPos="61.45" freq="7" file="camera_42439990_42428297_output.xml"/>
+    <laneAreaDetector id="42439990_42430347_420494981#2_0" lane="420494981#2_0" pos="0.00" endPos="244.33" freq="7" file="camera_42439990_42430347_output.xml"/>
+    <laneAreaDetector id="42439994_42428303_452322757#1_0" lane="452322757#1_0" pos="0.00" endPos="33.00" freq="7" file="camera_42439994_42428303_output.xml"/>
+    <laneAreaDetector id="42439994_42428303_452322757#1_1" lane="452322757#1_1" pos="0.00" endPos="33.00" freq="7" file="camera_42439994_42428303_output.xml"/>
+    <laneAreaDetector id="42439994_42439990_483360105#1_0" lane="483360105#1_0" pos="0.00" endPos="60.65" freq="7" file="camera_42439994_42439990_output.xml"/>
+    <laneAreaDetector id="42439994_42439990_483360105#1_1" lane="483360105#1_1" pos="0.00" endPos="60.65" freq="7" file="camera_42439994_42439990_output.xml"/>
+    <laneAreaDetector id="42439994_42439990_483360105#1_2" lane="483360105#1_2" pos="0.00" endPos="60.65" freq="7" file="camera_42439994_42439990_output.xml"/>
+    <laneAreaDetector id="42439996_42439994_167922071#1_0" lane="167922071#1_0" pos="0.00" endPos="64.45" freq="7" file="camera_42439996_42439994_output.xml"/>
+    <laneAreaDetector id="42439996_42439994_167922071#1_1" lane="167922071#1_1" pos="0.00" endPos="64.45" freq="7" file="camera_42439996_42439994_output.xml"/>
+    <laneAreaDetector id="42439996_42439994_167922071#1_2" lane="167922071#1_2" pos="0.00" endPos="64.45" freq="7" file="camera_42439996_42439994_output.xml"/>
+    <laneAreaDetector id="42439996_42430352_1160618888#0_0" lane="1160618888#0_0" pos="0.00" endPos="247.97" freq="7" file="camera_42439996_42430352_output.xml"/>
+    <laneAreaDetector id="42440001_42430358_420908138#2_0" lane="420908138#2_0" pos="0.00" endPos="248.58" freq="7" file="camera_42440001_42430358_output.xml"/>
+    <laneAreaDetector id="42440001_42430358_420908138#2_1" lane="420908138#2_1" pos="0.00" endPos="248.58" freq="7" file="camera_42440001_42430358_output.xml"/>
+    <laneAreaDetector id="42440001_42432585_569345540#1_0" lane="569345540#1_0" pos="0.00" endPos="64.30" freq="7" file="camera_42440001_42432585_output.xml"/>
+    <laneAreaDetector id="42440001_42432585_569345540#1_1" lane="569345540#1_1" pos="0.00" endPos="64.30" freq="7" file="camera_42440001_42432585_output.xml"/>
+    <laneAreaDetector id="42440001_42432585_569345540#1_2" lane="569345540#1_2" pos="0.00" endPos="64.30" freq="7" file="camera_42440001_42432585_output.xml"/>
+    <laneAreaDetector id="42440004_42440001_588157337#1_0" lane="588157337#1_0" pos="0.00" endPos="63.08" freq="7" file="camera_42440004_42440001_output.xml"/>
+    <laneAreaDetector id="42440004_42440001_588157337#1_1" lane="588157337#1_1" pos="0.00" endPos="63.08" freq="7" file="camera_42440004_42440001_output.xml"/>
+    <laneAreaDetector id="42440004_42440001_588157337#1_2" lane="588157337#1_2" pos="0.00" endPos="63.08" freq="7" file="camera_42440004_42440001_output.xml"/>
+    <laneAreaDetector id="42440004_42428310_1059314985#1_0" lane="1059314985#1_0" pos="0.00" endPos="63.64" freq="7" file="camera_42440004_42428310_output.xml"/>
+    <laneAreaDetector id="42440004_42428310_1059314985#1_1" lane="1059314985#1_1" pos="0.00" endPos="63.64" freq="7" file="camera_42440004_42428310_output.xml"/>
+    <laneAreaDetector id="42440009_42430363_717625447#2_0" lane="717625447#2_0" pos="0.00" endPos="245.40" freq="7" file="camera_42440009_42430363_output.xml"/>
+    <laneAreaDetector id="42440009_42440004_1023136586#1_0" lane="1023136586#1_0" pos="0.00" endPos="63.21" freq="7" file="camera_42440009_42440004_output.xml"/>
+    <laneAreaDetector id="42440009_42440004_1023136586#1_1" lane="1023136586#1_1" pos="0.00" endPos="63.21" freq="7" file="camera_42440009_42440004_output.xml"/>
+    <laneAreaDetector id="42440009_42440004_1023136586#1_2" lane="1023136586#1_2" pos="0.00" endPos="63.21" freq="7" file="camera_42440009_42440004_output.xml"/>
+    <laneAreaDetector id="42440012_42428313_46538371#1_0" lane="46538371#1_0" pos="0.00" endPos="75.90" freq="7" file="camera_42440012_42428313_output.xml"/>
+    <laneAreaDetector id="42440012_42428313_46538371#1_1" lane="46538371#1_1" pos="0.00" endPos="75.90" freq="7" file="camera_42440012_42428313_output.xml"/>
+    <laneAreaDetector id="42440012_42440009_382740985#4_0" lane="382740985#4_0" pos="0.00" endPos="62.99" freq="7" file="camera_42440012_42440009_output.xml"/>
+    <laneAreaDetector id="42440012_42440009_382740985#4_1" lane="382740985#4_1" pos="0.00" endPos="62.99" freq="7" file="camera_42440012_42440009_output.xml"/>
+    <laneAreaDetector id="42440012_42440009_382740985#4_2" lane="382740985#4_2" pos="0.00" endPos="62.99" freq="7" file="camera_42440012_42440009_output.xml"/>
+    <laneAreaDetector id="42440012_42440009_382740985#4_3" lane="382740985#4_3" pos="0.00" endPos="62.99" freq="7" file="camera_42440012_42440009_output.xml"/>
+    <laneAreaDetector id="42440015_42430371_226041032#5_0" lane="226041032#5_0" pos="0.00" endPos="248.87" freq="7" file="camera_42440015_42430371_output.xml"/>
+    <laneAreaDetector id="42440015_42430371_226041032#5_1" lane="226041032#5_1" pos="0.00" endPos="248.87" freq="7" file="camera_42440015_42430371_output.xml"/>
+    <laneAreaDetector id="42440015_42440012_382740985#1_0" lane="382740985#1_0" pos="0.00" endPos="63.47" freq="7" file="camera_42440015_42440012_output.xml"/>
+    <laneAreaDetector id="42440015_42440012_382740985#1_1" lane="382740985#1_1" pos="0.00" endPos="63.47" freq="7" file="camera_42440015_42440012_output.xml"/>
+    <laneAreaDetector id="42440015_42440012_382740985#1_2" lane="382740985#1_2" pos="0.00" endPos="63.47" freq="7" file="camera_42440015_42440012_output.xml"/>
+    <laneAreaDetector id="42440015_42440012_382740985#1_3" lane="382740985#1_3" pos="0.00" endPos="63.47" freq="7" file="camera_42440015_42440012_output.xml"/>
+    <laneAreaDetector id="42440020_42440015_496989355#7_0" lane="496989355#7_0" pos="0.00" endPos="64.85" freq="7" file="camera_42440020_42440015_output.xml"/>
+    <laneAreaDetector id="42440020_42440015_496989355#7_1" lane="496989355#7_1" pos="0.00" endPos="64.85" freq="7" file="camera_42440020_42440015_output.xml"/>
+    <laneAreaDetector id="42440020_42440015_496989355#7_2" lane="496989355#7_2" pos="0.00" endPos="64.85" freq="7" file="camera_42440020_42440015_output.xml"/>
+    <laneAreaDetector id="42440020_42428321_499172074#6_0" lane="499172074#6_0" pos="0.00" endPos="98.33" freq="7" file="camera_42440020_42428321_output.xml"/>
+    <laneAreaDetector id="42440153_42445928_5673497#1_0" lane="5673497#1_0" pos="0.00" endPos="132.48" freq="7" file="camera_42440153_42445928_output.xml"/>
+    <laneAreaDetector id="42440153_42445928_5673497#1_1" lane="5673497#1_1" pos="0.00" endPos="132.48" freq="7" file="camera_42440153_42445928_output.xml"/>
+    <laneAreaDetector id="42440153_42432580_458180190#1_0" lane="458180190#1_0" pos="0.00" endPos="64.14" freq="7" file="camera_42440153_42432580_output.xml"/>
+    <laneAreaDetector id="42440153_42432580_458180190#1_1" lane="458180190#1_1" pos="0.00" endPos="64.14" freq="7" file="camera_42440153_42432580_output.xml"/>
+    <laneAreaDetector id="42440153_42432580_458180190#1_2" lane="458180190#1_2" pos="0.00" endPos="64.14" freq="7" file="camera_42440153_42432580_output.xml"/>
+    <laneAreaDetector id="42440153_42432580_458180190#1_3" lane="458180190#1_3" pos="0.00" endPos="64.14" freq="7" file="camera_42440153_42432580_output.xml"/>
+    <laneAreaDetector id="42440163_42435684_194920158#7_0" lane="194920158#7_0" pos="0.00" endPos="247.15" freq="7" file="camera_42440163_42435684_output.xml"/>
+    <laneAreaDetector id="42440163_42435684_194920158#7_1" lane="194920158#7_1" pos="0.00" endPos="247.15" freq="7" file="camera_42440163_42435684_output.xml"/>
+    <laneAreaDetector id="42440163_42432594_1320234482#1_0" lane="1320234482#1_0" pos="0.00" endPos="64.54" freq="7" file="camera_42440163_42432594_output.xml"/>
+    <laneAreaDetector id="42440163_42432594_1320234482#1_1" lane="1320234482#1_1" pos="0.00" endPos="64.54" freq="7" file="camera_42440163_42432594_output.xml"/>
+    <laneAreaDetector id="42440163_42432594_1320234482#1_2" lane="1320234482#1_2" pos="0.00" endPos="64.54" freq="7" file="camera_42440163_42432594_output.xml"/>
+    <laneAreaDetector id="42440163_42432594_1320234482#1_3" lane="1320234482#1_3" pos="0.00" endPos="64.54" freq="7" file="camera_42440163_42432594_output.xml"/>
+    <laneAreaDetector id="42440170_42440163_194920158#4_0" lane="194920158#4_0" pos="0.00" endPos="249.77" freq="7" file="camera_42440170_42440163_output.xml"/>
+    <laneAreaDetector id="42440170_42440163_194920158#4_1" lane="194920158#4_1" pos="0.00" endPos="249.77" freq="7" file="camera_42440170_42440163_output.xml"/>
+    <laneAreaDetector id="42440452_42430361_46538335#2_0" lane="46538335#2_0" pos="0.00" endPos="283.01" freq="7" file="camera_42440452_42430361_output.xml"/>
+    <laneAreaDetector id="42440452_42440153_1352944235#1_0" lane="1352944235#1_0" pos="0.00" endPos="63.47" freq="7" file="camera_42440452_42440153_output.xml"/>
+    <laneAreaDetector id="42440452_42440153_1352944235#1_1" lane="1352944235#1_1" pos="0.00" endPos="63.47" freq="7" file="camera_42440452_42440153_output.xml"/>
+    <laneAreaDetector id="42440452_42440153_1352944235#1_2" lane="1352944235#1_2" pos="0.00" endPos="63.47" freq="7" file="camera_42440452_42440153_output.xml"/>
+    <laneAreaDetector id="42440452_42440153_1352944235#1_3" lane="1352944235#1_3" pos="0.00" endPos="63.47" freq="7" file="camera_42440452_42440153_output.xml"/>
+    <laneAreaDetector id="42440453_42440452_569345535#0_0" lane="569345535#0_0" pos="0.00" endPos="128.00" freq="7" file="camera_42440453_42440452_output.xml"/>
+    <laneAreaDetector id="42440453_42440452_569345535#0_1" lane="569345535#0_1" pos="0.00" endPos="128.00" freq="7" file="camera_42440453_42440452_output.xml"/>
+    <laneAreaDetector id="42440951_42450426_988984235#0_0" lane="988984235#0_0" pos="0.00" endPos="61.66" freq="7" file="camera_42440951_42450426_output.xml"/>
+    <laneAreaDetector id="42440951_42450426_988984235#0_1" lane="988984235#0_1" pos="0.00" endPos="61.66" freq="7" file="camera_42440951_42450426_output.xml"/>
+    <laneAreaDetector id="42440951_42450426_988984235#0_2" lane="988984235#0_2" pos="0.00" endPos="61.66" freq="7" file="camera_42440951_42450426_output.xml"/>
+    <laneAreaDetector id="42440951_42430375_1222356565#1_0" lane="1222356565#1_0" pos="0.00" endPos="245.83" freq="7" file="camera_42440951_42430375_output.xml"/>
+    <laneAreaDetector id="42440960_42445033_E4_0" lane="E4_0" pos="0.00" endPos="61.50" freq="7" file="camera_42440960_42445033_output.xml"/>
+    <laneAreaDetector id="42440960_42445033_E4_1" lane="E4_1" pos="0.00" endPos="61.50" freq="7" file="camera_42440960_42445033_output.xml"/>
+    <laneAreaDetector id="42440960_42445033_E4_2" lane="E4_2" pos="0.00" endPos="61.50" freq="7" file="camera_42440960_42445033_output.xml"/>
+    <laneAreaDetector id="42440960_42440966_499172074#17_0" lane="499172074#17_0" pos="0.00" endPos="249.00" freq="7" file="camera_42440960_42440966_output.xml"/>
+    <laneAreaDetector id="42443528_42445926_5671629#1_0" lane="5671629#1_0" pos="0.00" endPos="133.63" freq="7" file="camera_42443528_42445926_output.xml"/>
+    <laneAreaDetector id="42443528_42452353_384178816#4_0" lane="384178816#4_0" pos="0.00" endPos="64.42" freq="7" file="camera_42443528_42452353_output.xml"/>
+    <laneAreaDetector id="42443528_42452353_384178816#4_1" lane="384178816#4_1" pos="0.00" endPos="64.42" freq="7" file="camera_42443528_42452353_output.xml"/>
+    <laneAreaDetector id="42443528_42452353_384178816#4_2" lane="384178816#4_2" pos="0.00" endPos="64.42" freq="7" file="camera_42443528_42452353_output.xml"/>
+    <laneAreaDetector id="42443528_42452353_384178816#4_3" lane="384178816#4_3" pos="0.00" endPos="64.42" freq="7" file="camera_42443528_42452353_output.xml"/>
+    <laneAreaDetector id="42443532_42435680_5671115#8_0" lane="5671115#8_0" pos="0.00" endPos="247.56" freq="7" file="camera_42443532_42435680_output.xml"/>
+    <laneAreaDetector id="42443532_42435680_5671115#8_1" lane="5671115#8_1" pos="0.00" endPos="247.56" freq="7" file="camera_42443532_42435680_output.xml"/>
+    <laneAreaDetector id="42443532_42435680_5671115#8_2" lane="5671115#8_2" pos="0.00" endPos="247.56" freq="7" file="camera_42443532_42435680_output.xml"/>
+    <laneAreaDetector id="42443532_42445020_814278019#1_0" lane="814278019#1_0" pos="0.00" endPos="64.72" freq="7" file="camera_42443532_42445020_output.xml"/>
+    <laneAreaDetector id="42443532_42445020_814278019#1_1" lane="814278019#1_1" pos="0.00" endPos="64.72" freq="7" file="camera_42443532_42445020_output.xml"/>
+    <laneAreaDetector id="42443532_42445020_814278019#1_2" lane="814278019#1_2" pos="0.00" endPos="64.72" freq="7" file="camera_42443532_42445020_output.xml"/>
+    <laneAreaDetector id="42443532_42445020_814278019#1_3" lane="814278019#1_3" pos="0.00" endPos="64.72" freq="7" file="camera_42443532_42445020_output.xml"/>
+    <laneAreaDetector id="42443534_42443532_5671115#5_0" lane="5671115#5_0" pos="0.00" endPos="249.43" freq="7" file="camera_42443534_42443532_output.xml"/>
+    <laneAreaDetector id="42443534_42443532_5671115#5_1" lane="5671115#5_1" pos="0.00" endPos="249.43" freq="7" file="camera_42443534_42443532_output.xml"/>
+    <laneAreaDetector id="42443534_42443532_5671115#5_2" lane="5671115#5_2" pos="0.00" endPos="249.43" freq="7" file="camera_42443534_42443532_output.xml"/>
+    <laneAreaDetector id="42443556_42445920_5672149#1_0" lane="5672149#1_0" pos="0.00" endPos="133.34" freq="7" file="camera_42443556_42445920_output.xml"/>
+    <laneAreaDetector id="42443556_42454428_464515891#1_0" lane="464515891#1_0" pos="0.00" endPos="63.95" freq="7" file="camera_42443556_42454428_output.xml"/>
+    <laneAreaDetector id="42443556_42454428_464515891#1_1" lane="464515891#1_1" pos="0.00" endPos="63.95" freq="7" file="camera_42443556_42454428_output.xml"/>
+    <laneAreaDetector id="42443556_42454428_464515891#1_2" lane="464515891#1_2" pos="0.00" endPos="63.95" freq="7" file="camera_42443556_42454428_output.xml"/>
+    <laneAreaDetector id="42443556_42454428_464515891#1_3" lane="464515891#1_3" pos="0.00" endPos="63.95" freq="7" file="camera_42443556_42454428_output.xml"/>
+    <laneAreaDetector id="42443561_42435671_226041027#1_0" lane="226041027#1_0" pos="0.00" endPos="247.31" freq="7" file="camera_42443561_42435671_output.xml"/>
+    <laneAreaDetector id="42443561_42445011_968513229#1_0" lane="968513229#1_0" pos="0.00" endPos="64.09" freq="7" file="camera_42443561_42445011_output.xml"/>
+    <laneAreaDetector id="42443561_42445011_968513229#1_1" lane="968513229#1_1" pos="0.00" endPos="64.09" freq="7" file="camera_42443561_42445011_output.xml"/>
+    <laneAreaDetector id="42443561_42445011_968513229#1_2" lane="968513229#1_2" pos="0.00" endPos="64.09" freq="7" file="camera_42443561_42445011_output.xml"/>
+    <laneAreaDetector id="42443561_42445011_968513229#1_3" lane="968513229#1_3" pos="0.00" endPos="64.09" freq="7" file="camera_42443561_42445011_output.xml"/>
+    <laneAreaDetector id="42443563_42443561_46482609#1_0" lane="46482609#1_0" pos="0.00" endPos="248.75" freq="7" file="camera_42443563_42443561_output.xml"/>
+    <laneAreaDetector id="42444043_42432693_458177130#1_0" lane="458177130#1_0" pos="0.00" endPos="132.71" freq="7" file="camera_42444043_42432693_output.xml"/>
+    <laneAreaDetector id="42445011_42454433_194926847#1_0" lane="194926847#1_0" pos="0.00" endPos="247.99" freq="7" file="camera_42445011_42454433_output.xml"/>
+    <laneAreaDetector id="42445011_42454433_194926847#1_1" lane="194926847#1_1" pos="0.00" endPos="247.99" freq="7" file="camera_42445011_42454433_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_0" lane="194926855#0_0" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_1" lane="194926855#0_1" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_2" lane="194926855#0_2" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_3" lane="194926855#0_3" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_4" lane="194926855#0_4" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445011_42437368_194926855#0_5" lane="194926855#0_5" pos="0.00" endPos="60.53" freq="7" file="camera_42445011_42437368_output.xml"/>
+    <laneAreaDetector id="42445018_42432703_420907908#1_0" lane="420907908#1_0" pos="0.00" endPos="66.29" freq="7" file="camera_42445018_42432703_output.xml"/>
+    <laneAreaDetector id="42445018_42432703_420907908#1_1" lane="420907908#1_1" pos="0.00" endPos="66.29" freq="7" file="camera_42445018_42432703_output.xml"/>
+    <laneAreaDetector id="42445018_42432703_420907908#1_2" lane="420907908#1_2" pos="0.00" endPos="66.29" freq="7" file="camera_42445018_42432703_output.xml"/>
+    <laneAreaDetector id="42445018_42432703_420907908#1_3" lane="420907908#1_3" pos="0.00" endPos="66.29" freq="7" file="camera_42445018_42432703_output.xml"/>
+    <laneAreaDetector id="42445018_42435675_846142552#2_0" lane="846142552#2_0" pos="0.00" endPos="248.18" freq="7" file="camera_42445018_42435675_output.xml"/>
+    <laneAreaDetector id="42445020_42452365_1136391283#1_0" lane="1136391283#1_0" pos="0.00" endPos="249.55" freq="7" file="camera_42445020_42452365_output.xml"/>
+    <laneAreaDetector id="42445020_42445018_1136391284#1_0" lane="1136391284#1_0" pos="0.00" endPos="65.63" freq="7" file="camera_42445020_42445018_output.xml"/>
+    <laneAreaDetector id="42445020_42445018_1136391284#1_1" lane="1136391284#1_1" pos="0.00" endPos="65.63" freq="7" file="camera_42445020_42445018_output.xml"/>
+    <laneAreaDetector id="42445020_42445018_1136391284#1_2" lane="1136391284#1_2" pos="0.00" endPos="65.63" freq="7" file="camera_42445020_42445018_output.xml"/>
+    <laneAreaDetector id="42445020_42445018_1136391284#1_3" lane="1136391284#1_3" pos="0.00" endPos="65.63" freq="7" file="camera_42445020_42445018_output.xml"/>
+    <laneAreaDetector id="42445025_42454042_814278021#1_0" lane="814278021#1_0" pos="0.00" endPos="248.58" freq="7" file="camera_42445025_42454042_output.xml"/>
+    <laneAreaDetector id="42445025_42440163_1025734018#1_0" lane="1025734018#1_0" pos="0.00" endPos="61.14" freq="7" file="camera_42445025_42440163_output.xml"/>
+    <laneAreaDetector id="42445025_42440163_1025734018#1_1" lane="1025734018#1_1" pos="0.00" endPos="61.14" freq="7" file="camera_42445025_42440163_output.xml"/>
+    <laneAreaDetector id="42445025_42440163_1025734018#1_2" lane="1025734018#1_2" pos="0.00" endPos="61.14" freq="7" file="camera_42445025_42440163_output.xml"/>
+    <laneAreaDetector id="42445025_42440163_1025734018#1_3" lane="1025734018#1_3" pos="0.00" endPos="61.14" freq="7" file="camera_42445025_42440163_output.xml"/>
+    <laneAreaDetector id="42445027_42445025_5671276#1_0" lane="5671276#1_0" pos="0.00" endPos="64.53" freq="7" file="camera_42445027_42445025_output.xml"/>
+    <laneAreaDetector id="42445027_42445025_5671276#1_1" lane="5671276#1_1" pos="0.00" endPos="64.53" freq="7" file="camera_42445027_42445025_output.xml"/>
+    <laneAreaDetector id="42445027_42445025_5671276#1_2" lane="5671276#1_2" pos="0.00" endPos="64.53" freq="7" file="camera_42445027_42445025_output.xml"/>
+    <laneAreaDetector id="42445027_42435702_965833822#7_0" lane="965833822#7_0" pos="0.00" endPos="248.17" freq="7" file="camera_42445027_42435702_output.xml"/>
+    <laneAreaDetector id="42445033_42435707_226041033_0" lane="226041033_0" pos="0.00" endPos="248.22" freq="7" file="camera_42445033_42435707_output.xml"/>
+    <laneAreaDetector id="42445033_42435707_226041033_1" lane="226041033_1" pos="0.00" endPos="248.22" freq="7" file="camera_42445033_42435707_output.xml"/>
+    <laneAreaDetector id="42445033_1815133244_E3_0" lane="E3_0" pos="0.00" endPos="68.40" freq="7" file="camera_42445033_1815133244_output.xml"/>
+    <laneAreaDetector id="42445033_1815133244_E3_1" lane="E3_1" pos="0.00" endPos="68.40" freq="7" file="camera_42445033_1815133244_output.xml"/>
+    <laneAreaDetector id="42445033_1815133244_E3_2" lane="E3_2" pos="0.00" endPos="68.40" freq="7" file="camera_42445033_1815133244_output.xml"/>
+    <laneAreaDetector id="42445916_42437358_1272613981#1_0" lane="1272613981#1_0" pos="0.00" endPos="285.36" freq="7" file="camera_42445916_42437358_output.xml"/>
+    <laneAreaDetector id="42445916_42437358_1272613981#1_1" lane="1272613981#1_1" pos="0.00" endPos="285.36" freq="7" file="camera_42445916_42437358_output.xml"/>
+    <laneAreaDetector id="42445916_42437358_1272613981#1_2" lane="1272613981#1_2" pos="0.00" endPos="285.36" freq="7" file="camera_42445916_42437358_output.xml"/>
+    <laneAreaDetector id="42445916_42437358_reverse_-1272613981#1_0" lane="-1272613981#1_0" pos="0.00" endPos="285.36" freq="7" file="camera_42445916_42437358_reverse_output.xml"/>
+    <laneAreaDetector id="42445916_42437358_reverse_-1272613981#1_1" lane="-1272613981#1_1" pos="0.00" endPos="285.36" freq="7" file="camera_42445916_42437358_reverse_output.xml"/>
+    <laneAreaDetector id="42445917_42454428_5673515#1_0" lane="5673515#1_0" pos="0.00" endPos="133.31" freq="7" file="camera_42445917_42454428_output.xml"/>
+    <laneAreaDetector id="42445924_42452353_1106482765#4_0" lane="1106482765#4_0" pos="0.00" endPos="133.41" freq="7" file="camera_42445924_42452353_output.xml"/>
+    <laneAreaDetector id="42445941_42440951_226041012#4_0" lane="226041012#4_0" pos="0.00" endPos="134.99" freq="7" file="camera_42445941_42440951_output.xml"/>
+    <laneAreaDetector id="42446353_42440452_458180191#4_0" lane="458180191#4_0" pos="0.00" endPos="64.53" freq="7" file="camera_42446353_42440452_output.xml"/>
+    <laneAreaDetector id="42446353_42440452_458180191#4_1" lane="458180191#4_1" pos="0.00" endPos="64.53" freq="7" file="camera_42446353_42440452_output.xml"/>
+    <laneAreaDetector id="42446353_42440452_458180191#4_2" lane="458180191#4_2" pos="0.00" endPos="64.53" freq="7" file="camera_42446353_42440452_output.xml"/>
+    <laneAreaDetector id="42446353_42440452_458180191#4_3" lane="458180191#4_3" pos="0.00" endPos="64.53" freq="7" file="camera_42446353_42440452_output.xml"/>
+    <laneAreaDetector id="42446353_42445930_496992867#1_0" lane="496992867#1_0" pos="0.00" endPos="134.20" freq="7" file="camera_42446353_42445930_output.xml"/>
+    <laneAreaDetector id="42446363_42445027_965833822#4_0" lane="965833822#4_0" pos="0.00" endPos="249.64" freq="7" file="camera_42446363_42445027_output.xml"/>
+    <laneAreaDetector id="42450426_42445936_5672954#1_0" lane="5672954#1_0" pos="0.00" endPos="133.47" freq="7" file="camera_42450426_42445936_output.xml"/>
+    <laneAreaDetector id="42450426_42445936_5672954#1_1" lane="5672954#1_1" pos="0.00" endPos="133.47" freq="7" file="camera_42450426_42445936_output.xml"/>
+    <laneAreaDetector id="42450426_42436700_458180197#1_0" lane="458180197#1_0" pos="0.00" endPos="65.30" freq="7" file="camera_42450426_42436700_output.xml"/>
+    <laneAreaDetector id="42450426_42436700_458180197#1_1" lane="458180197#1_1" pos="0.00" endPos="65.30" freq="7" file="camera_42450426_42436700_output.xml"/>
+    <laneAreaDetector id="42450426_42436700_458180197#1_2" lane="458180197#1_2" pos="0.00" endPos="65.30" freq="7" file="camera_42450426_42436700_output.xml"/>
+    <laneAreaDetector id="42450426_42436700_458180197#1_3" lane="458180197#1_3" pos="0.00" endPos="65.30" freq="7" file="camera_42450426_42436700_output.xml"/>
+    <laneAreaDetector id="42450434_42445033_E6_0" lane="E6_0" pos="0.00" endPos="255.39" freq="7" file="camera_42450434_42445033_output.xml"/>
+    <laneAreaDetector id="42450434_42445033_E6_1" lane="E6_1" pos="0.00" endPos="255.39" freq="7" file="camera_42450434_42445033_output.xml"/>
+    <laneAreaDetector id="42452353_42430350_5672036#1_0" lane="5672036#1_0" pos="0.00" endPos="287.11" freq="7" file="camera_42452353_42430350_output.xml"/>
+    <laneAreaDetector id="42452353_42434072_511699175#1_0" lane="511699175#1_0" pos="0.00" endPos="64.63" freq="7" file="camera_42452353_42434072_output.xml"/>
+    <laneAreaDetector id="42452353_42434072_511699175#1_1" lane="511699175#1_1" pos="0.00" endPos="64.63" freq="7" file="camera_42452353_42434072_output.xml"/>
+    <laneAreaDetector id="42452353_42434072_511699175#1_2" lane="511699175#1_2" pos="0.00" endPos="64.63" freq="7" file="camera_42452353_42434072_output.xml"/>
+    <laneAreaDetector id="42454428_42430338_5672464#1_0" lane="5672464#1_0" pos="0.00" endPos="286.39" freq="7" file="camera_42454428_42430338_output.xml"/>
+    <laneAreaDetector id="42454428_42437358_511699184#1_0" lane="511699184#1_0" pos="0.00" endPos="67.74" freq="7" file="camera_42454428_42437358_output.xml"/>
+    <laneAreaDetector id="42454428_42437358_511699184#1_1" lane="511699184#1_1" pos="0.00" endPos="67.74" freq="7" file="camera_42454428_42437358_output.xml"/>
+    <laneAreaDetector id="42454428_42437358_511699184#1_2" lane="511699184#1_2" pos="0.00" endPos="67.74" freq="7" file="camera_42454428_42437358_output.xml"/>
+    <laneAreaDetector id="42454428_42437358_511699184#1_3" lane="511699184#1_3" pos="0.00" endPos="67.74" freq="7" file="camera_42454428_42437358_output.xml"/>
+    <laneAreaDetector id="42455761_42445018_46482602#3_0" lane="46482602#3_0" pos="0.00" endPos="249.15" freq="7" file="camera_42455761_42445018_output.xml"/>
+    <laneAreaDetector id="42455761_42445018_46482602#3_1" lane="46482602#3_1" pos="0.00" endPos="249.15" freq="7" file="camera_42455761_42445018_output.xml"/>
+    <laneAreaDetector id="1815133244_42445027_420892271#1_0" lane="420892271#1_0" pos="0.00" endPos="65.26" freq="7" file="camera_1815133244_42445027_output.xml"/>
+    <laneAreaDetector id="1815133244_42445027_420892271#1_1" lane="420892271#1_1" pos="0.00" endPos="65.26" freq="7" file="camera_1815133244_42445027_output.xml"/>
+    <laneAreaDetector id="1815133244_42445027_420892271#1_2" lane="420892271#1_2" pos="0.00" endPos="65.26" freq="7" file="camera_1815133244_42445027_output.xml"/>
+    <laneAreaDetector id="1815133244_42449550_812949647#8_0" lane="812949647#8_0" pos="0.00" endPos="249.24" freq="7" file="camera_1815133244_42449550_output.xml"/>
+    <laneAreaDetector id="1815133244_42449550_812949647#8_1" lane="812949647#8_1" pos="0.00" endPos="249.24" freq="7" file="camera_1815133244_42449550_output.xml"/>
+    <laneAreaDetector id="5849918504_42445011_194926846#1_0" lane="194926846#1_0" pos="0.00" endPos="247.66" freq="7" file="camera_5849918504_42445011_output.xml"/>
+    <laneAreaDetector id="5849918504_42435671_1198594026#1_0" lane="1198594026#1_0" pos="0.00" endPos="63.96" freq="7" file="camera_5849918504_42435671_output.xml"/>
+    <laneAreaDetector id="5849918504_42435671_1198594026#1_1" lane="1198594026#1_1" pos="0.00" endPos="63.96" freq="7" file="camera_5849918504_42435671_output.xml"/>
+    <laneAreaDetector id="5849918504_42435671_1198594026#1_2" lane="1198594026#1_2" pos="0.00" endPos="63.96" freq="7" file="camera_5849918504_42435671_output.xml"/>
+    <poi id="poi_42428287_42428283" color="255,0,0" layer="202" x="1302.53" y="1542.16" width="2" height="2" type="camera"/>
+    <poi id="poi_42428287_42437363" color="255,0,0" layer="202" x="1290.17" y="1596.62" width="2" height="2" type="camera"/>
+    <poi id="poi_42428287_42430333" color="255,0,0" layer="202" x="1410.40" y="1531.67" width="2" height="2" type="camera"/>
+    <poi id="poi_42428297_42439984" color="255,0,0" layer="202" x="1365.12" y="1788.95" width="2" height="2" type="camera"/>
+    <poi id="poi_42428297_42432700" color="255,0,0" layer="202" x="1263.68" y="1888.44" width="2" height="2" type="camera"/>
+    <poi id="poi_42428303_42435677" color="255,0,0" layer="202" x="1317.08" y="2040.22" width="2" height="2" type="camera"/>
+    <poi id="poi_42428305_42439996" color="255,0,0" layer="202" x="1469.78" y="2048.21" width="2" height="2" type="camera"/>
+    <poi id="poi_42428305_42428303" color="255,0,0" layer="202" x="1427.72" y="2026.93" width="2" height="2" type="camera"/>
+    <poi id="poi_42428307_42428305" color="255,0,0" layer="202" x="1459.44" y="2100.19" width="2" height="2" type="camera"/>
+    <poi id="poi_42428307_42432589" color="255,0,0" layer="202" x="1379.90" y="2187.02" width="2" height="2" type="camera"/>
+    <poi id="poi_42428308_42440001" color="255,0,0" layer="202" x="1537.58" y="2192.84" width="2" height="2" type="camera"/>
+    <poi id="poi_42428308_42428307" color="255,0,0" layer="202" x="1484.24" y="2175.97" width="2" height="2" type="camera"/>
+    <poi id="poi_42428310_42435687" color="255,0,0" layer="202" x="1452.53" y="2328.18" width="2" height="2" type="camera"/>
+    <poi id="poi_42428310_42428308" color="255,0,0" layer="202" x="1518.89" y="2247.60" width="2" height="2" type="camera"/>
+    <poi id="poi_42428312_42440009" color="255,0,0" layer="202" x="1609.16" y="2333.93" width="2" height="2" type="camera"/>
+    <poi id="poi_42428312_42428310" color="255,0,0" layer="202" x="1553.53" y="2319.39" width="2" height="2" type="camera"/>
+    <poi id="poi_42428313_42435705" color="255,0,0" layer="202" x="1521.87" y="2469.98" width="2" height="2" type="camera"/>
+    <poi id="poi_42428313_42428312" color="255,0,0" layer="202" x="1585.42" y="2391.70" width="2" height="2" type="camera"/>
+    <poi id="poi_42428315_42440015" color="255,0,0" layer="202" x="1677.57" y="2477.60" width="2" height="2" type="camera"/>
+    <poi id="poi_42428315_42428313" color="255,0,0" layer="202" x="1615.77" y="2465.45" width="2" height="2" type="camera"/>
+    <poi id="poi_42428321_42428315" color="255,0,0" layer="202" x="1642.31" y="2543.59" width="2" height="2" type="camera"/>
+    <poi id="poi_42428321_42435710" color="255,0,0" layer="202" x="1586.48" y="2620.13" width="2" height="2" type="camera"/>
+    <poi id="poi_42428328_42428321" color="255,0,0" layer="202" x="1661.70" y="2622.06" width="2" height="2" type="camera"/>
+    <poi id="poi_42430329_42430333" color="255,0,0" layer="202" x="1488.59" y="1441.44" width="2" height="2" type="camera"/>
+    <poi id="poi_42430333_42430338" color="255,0,0" layer="202" x="1528.82" y="1516.18" width="2" height="2" type="camera"/>
+    <poi id="poi_42430333_42428287" color="255,0,0" layer="202" x="1410.40" y="1531.67" width="2" height="2" type="camera"/>
+    <poi id="poi_42430333_42437358" color="255,0,0" layer="202" x="1645.93" y="1404.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42430338_42430342" color="255,0,0" layer="202" x="1568.13" y="1588.81" width="2" height="2" type="camera"/>
+    <poi id="poi_42430338_42439981" color="255,0,0" layer="202" x="1428.84" y="1618.73" width="2" height="2" type="camera"/>
+    <poi id="poi_42430342_42443556" color="255,0,0" layer="202" x="1723.99" y="1550.00" width="2" height="2" type="camera"/>
+    <poi id="poi_42430342_42430344" color="255,0,0" layer="202" x="1605.82" y="1658.94" width="2" height="2" type="camera"/>
+    <poi id="poi_42430344_42430347" color="255,0,0" layer="202" x="1643.54" y="1728.66" width="2" height="2" type="camera"/>
+    <poi id="poi_42430344_42428297" color="255,0,0" layer="202" x="1504.75" y="1758.87" width="2" height="2" type="camera"/>
+    <poi id="poi_42430347_42434072" color="255,0,0" layer="202" x="1799.61" y="1689.36" width="2" height="2" type="camera"/>
+    <poi id="poi_42430347_42430350" color="255,0,0" layer="202" x="1681.33" y="1798.21" width="2" height="2" type="camera"/>
+    <poi id="poi_42430350_42439994" color="255,0,0" layer="202" x="1580.24" y="1898.54" width="2" height="2" type="camera"/>
+    <poi id="poi_42430350_42430352" color="255,0,0" layer="202" x="1719.05" y="1868.30" width="2" height="2" type="camera"/>
+    <poi id="poi_42430352_42443528" color="255,0,0" layer="202" x="1875.17" y="1829.60" width="2" height="2" type="camera"/>
+    <poi id="poi_42430352_42430356" color="255,0,0" layer="202" x="1756.85" y="1938.57" width="2" height="2" type="camera"/>
+    <poi id="poi_42430356_42430358" color="255,0,0" layer="202" x="1794.99" y="2009.28" width="2" height="2" type="camera"/>
+    <poi id="poi_42430356_42432585" color="255,0,0" layer="202" x="1655.85" y="2038.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42430358_42440153" color="255,0,0" layer="202" x="1950.55" y="1970.32" width="2" height="2" type="camera"/>
+    <poi id="poi_42430358_42430361" color="255,0,0" layer="202" x="1832.58" y="2079.16" width="2" height="2" type="camera"/>
+    <poi id="poi_42430361_42430363" color="255,0,0" layer="202" x="1870.01" y="2148.72" width="2" height="2" type="camera"/>
+    <poi id="poi_42430361_42440004" color="255,0,0" layer="202" x="1730.69" y="2178.58" width="2" height="2" type="camera"/>
+    <poi id="poi_42430363_42430367" color="255,0,0" layer="202" x="1907.55" y="2218.49" width="2" height="2" type="camera"/>
+    <poi id="poi_42430363_42446353" color="255,0,0" layer="202" x="2025.95" y="2110.40" width="2" height="2" type="camera"/>
+    <poi id="poi_42430367_42440012" color="255,0,0" layer="202" x="1805.70" y="2317.54" width="2" height="2" type="camera"/>
+    <poi id="poi_42430367_42430371" color="255,0,0" layer="202" x="1944.91" y="2287.90" width="2" height="2" type="camera"/>
+    <poi id="poi_42430371_42450426" color="255,0,0" layer="202" x="2100.84" y="2249.49" width="2" height="2" type="camera"/>
+    <poi id="poi_42430371_42430375" color="255,0,0" layer="202" x="1983.02" y="2358.73" width="2" height="2" type="camera"/>
+    <poi id="poi_42430375_42440020" color="255,0,0" layer="202" x="1882.13" y="2459.48" width="2" height="2" type="camera"/>
+    <poi id="poi_42430375_42430378" color="255,0,0" layer="202" x="2020.84" y="2428.58" width="2" height="2" type="camera"/>
+    <poi id="poi_42431544_42440951" color="255,0,0" layer="202" x="2294.19" y="2280.50" width="2" height="2" type="camera"/>
+    <poi id="poi_42431549_42440020" color="255,0,0" layer="202" x="1780.01" y="2558.02" width="2" height="2" type="camera"/>
+    <poi id="poi_42431560_42440960" color="255,0,0" layer="202" x="1297.06" y="2819.46" width="2" height="2" type="camera"/>
+    <poi id="poi_42432580_42430356" color="255,0,0" layer="202" x="1912.57" y="1899.57" width="2" height="2" type="camera"/>
+    <poi id="poi_42432580_42443528" color="255,0,0" layer="202" x="2030.84" y="1790.39" width="2" height="2" type="camera"/>
+    <poi id="poi_42432585_42439996" color="255,0,0" layer="202" x="1516.59" y="2068.17" width="2" height="2" type="camera"/>
+    <poi id="poi_42432585_42428307" color="255,0,0" layer="202" x="1501.37" y="2121.58" width="2" height="2" type="camera"/>
+    <poi id="poi_42432589_42435684" color="255,0,0" layer="202" x="1312.20" y="2268.85" width="2" height="2" type="camera"/>
+    <poi id="poi_42432589_42432594" color="255,0,0" layer="202" x="1172.55" y="2298.74" width="2" height="2" type="camera"/>
+    <poi id="poi_42432594_42432598" color="255,0,0" layer="202" x="931.51" y="2428.63" width="2" height="2" type="camera"/>
+    <poi id="poi_42432594_42443532" color="255,0,0" layer="202" x="1033.24" y="2328.48" width="2" height="2" type="camera"/>
+    <poi id="poi_42432693_42443556" color="255,0,0" layer="202" x="1879.63" y="1511.28" width="2" height="2" type="camera"/>
+    <poi id="poi_42432693_42430344" color="255,0,0" layer="202" x="1761.60" y="1620.65" width="2" height="2" type="camera"/>
+    <poi id="poi_42432700_42435675" color="255,0,0" layer="202" x="1161.50" y="1988.70" width="2" height="2" type="camera"/>
+    <poi id="poi_42432700_42432703" color="255,0,0" layer="202" x="1021.97" y="2018.76" width="2" height="2" type="camera"/>
+    <poi id="poi_42432703_42432706" color="255,0,0" layer="202" x="780.57" y="2148.66" width="2" height="2" type="camera"/>
+    <poi id="poi_42432703_42443561" color="255,0,0" layer="202" x="882.53" y="2048.48" width="2" height="2" type="camera"/>
+    <poi id="poi_42434072_42434074" color="255,0,0" layer="202" x="2005.56" y="1579.54" width="2" height="2" type="camera"/>
+    <poi id="poi_42434072_42432693" color="255,0,0" layer="202" x="1917.61" y="1581.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42434434_42434439" color="255,0,0" layer="202" x="655.46" y="1894.25" width="2" height="2" type="camera"/>
+    <poi id="poi_42434439_42437371" color="255,0,0" layer="202" x="609.05" y="1963.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42434439_42437368" color="255,0,0" layer="202" x="729.11" y="1898.47" width="2" height="2" type="camera"/>
+    <poi id="poi_42435660_42435663" color="255,0,0" layer="202" x="1006.39" y="1701.26" width="2" height="2" type="camera"/>
+    <poi id="poi_42435663_5849918504" color="255,0,0" layer="202" x="1046.89" y="1776.37" width="2" height="2" type="camera"/>
+    <poi id="poi_42435663_42437363" color="255,0,0" layer="202" x="1147.15" y="1673.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42435663_42437368" color="255,0,0" layer="202" x="905.22" y="1803.81" width="2" height="2" type="camera"/>
+    <poi id="poi_42435671_42439984" color="255,0,0" layer="202" x="1225.04" y="1818.81" width="2" height="2" type="camera"/>
+    <poi id="poi_42435671_42432700" color="255,0,0" layer="202" x="1123.71" y="1918.62" width="2" height="2" type="camera"/>
+    <poi id="poi_42435675_42439990" color="255,0,0" layer="202" x="1301.40" y="1959.09" width="2" height="2" type="camera"/>
+    <poi id="poi_42435675_42435677" color="255,0,0" layer="202" x="1199.24" y="2058.37" width="2" height="2" type="camera"/>
+    <poi id="poi_42435677_42445020" color="255,0,0" layer="202" x="1097.17" y="2158.18" width="2" height="2" type="camera"/>
+    <poi id="poi_42435677_42435680" color="255,0,0" layer="202" x="1236.74" y="2128.30" width="2" height="2" type="camera"/>
+    <poi id="poi_42435680_42428305" color="255,0,0" layer="202" x="1348.97" y="2113.10" width="2" height="2" type="camera"/>
+    <poi id="poi_42435680_42432589" color="255,0,0" layer="202" x="1274.08" y="2198.83" width="2" height="2" type="camera"/>
+    <poi id="poi_42435684_42435687" color="255,0,0" layer="202" x="1350.15" y="2338.56" width="2" height="2" type="camera"/>
+    <poi id="poi_42435684_42428308" color="255,0,0" layer="202" x="1416.51" y="2258.03" width="2" height="2" type="camera"/>
+    <poi id="poi_42435687_42445025" color="255,0,0" layer="202" x="1248.19" y="2438.32" width="2" height="2" type="camera"/>
+    <poi id="poi_42435687_42435702" color="255,0,0" layer="202" x="1387.63" y="2409.08" width="2" height="2" type="camera"/>
+    <poi id="poi_42435702_42428312" color="255,0,0" layer="202" x="1488.58" y="2400.65" width="2" height="2" type="camera"/>
+    <poi id="poi_42435702_42435705" color="255,0,0" layer="202" x="1425.22" y="2478.45" width="2" height="2" type="camera"/>
+    <poi id="poi_42435705_42435707" color="255,0,0" layer="202" x="1463.33" y="2547.93" width="2" height="2" type="camera"/>
+    <poi id="poi_42435705_1815133244" color="255,0,0" layer="202" x="1323.42" y="2577.77" width="2" height="2" type="camera"/>
+    <poi id="poi_42435707_42428315" color="255,0,0" layer="202" x="1557.17" y="2543.12" width="2" height="2" type="camera"/>
+    <poi id="poi_42435707_42435710" color="255,0,0" layer="202" x="1501.41" y="2619.37" width="2" height="2" type="camera"/>
+    <poi id="poi_42435710_42431556" color="255,0,0" layer="202" x="1538.21" y="2688.34" width="2" height="2" type="camera"/>
+    <poi id="poi_42435710_42440960" color="255,0,0" layer="202" x="1398.87" y="2720.11" width="2" height="2" type="camera"/>
+    <poi id="poi_42436700_42430367" color="255,0,0" layer="202" x="2062.91" y="2178.96" width="2" height="2" type="camera"/>
+    <poi id="poi_42436700_42446353" color="255,0,0" layer="202" x="2181.32" y="2070.46" width="2" height="2" type="camera"/>
+    <poi id="poi_42436701_42436700" color="255,0,0" layer="202" x="2268.11" y="2067.79" width="2" height="2" type="camera"/>
+    <poi id="poi_42437358_42430333" color="255,0,0" layer="202" x="1645.93" y="1404.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42437358_42432436" color="255,0,0" layer="202" x="1762.82" y="1293.44" width="2" height="2" type="camera"/>
+    <poi id="poi_42437358_42445916" color="255,0,0" layer="202" x="1851.30" y="1294.73" width="2" height="2" type="camera"/>
+    <poi id="poi_42437363_42439972" color="255,0,0" layer="202" x="1247.28" y="1571.29" width="2" height="2" type="camera"/>
+    <poi id="poi_42437363_42428287" color="255,0,0" layer="202" x="1290.17" y="1596.62" width="2" height="2" type="camera"/>
+    <poi id="poi_42437363_42435663" color="255,0,0" layer="202" x="1147.15" y="1673.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42437368_42434439" color="255,0,0" layer="202" x="729.11" y="1898.47" width="2" height="2" type="camera"/>
+    <poi id="poi_42437368_42445001" color="255,0,0" layer="202" x="766.17" y="1835.85" width="2" height="2" type="camera"/>
+    <poi id="poi_42437368_42435663" color="255,0,0" layer="202" x="905.22" y="1803.81" width="2" height="2" type="camera"/>
+    <poi id="poi_42437371_42434439" color="255,0,0" layer="202" x="609.05" y="1963.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42438881_42432580" color="255,0,0" layer="202" x="2117.92" y="1788.80" width="2" height="2" type="camera"/>
+    <poi id="poi_42439981_5849918504" color="255,0,0" layer="202" x="1187.90" y="1748.90" width="2" height="2" type="camera"/>
+    <poi id="poi_42439981_42437363" color="255,0,0" layer="202" x="1288.14" y="1646.01" width="2" height="2" type="camera"/>
+    <poi id="poi_42439984_42439981" color="255,0,0" layer="202" x="1326.90" y="1718.94" width="2" height="2" type="camera"/>
+    <poi id="poi_42439984_42430342" color="255,0,0" layer="202" x="1466.21" y="1689.10" width="2" height="2" type="camera"/>
+    <poi id="poi_42439990_42428297" color="255,0,0" layer="202" x="1403.65" y="1859.03" width="2" height="2" type="camera"/>
+    <poi id="poi_42439990_42430347" color="255,0,0" layer="202" x="1542.45" y="1828.86" width="2" height="2" type="camera"/>
+    <poi id="poi_42439994_42428303" color="255,0,0" layer="202" x="1438.57" y="1976.44" width="2" height="2" type="camera"/>
+    <poi id="poi_42439994_42439990" color="255,0,0" layer="202" x="1441.39" y="1929.40" width="2" height="2" type="camera"/>
+    <poi id="poi_42439996_42439994" color="255,0,0" layer="202" x="1478.83" y="1998.88" width="2" height="2" type="camera"/>
+    <poi id="poi_42439996_42430352" color="255,0,0" layer="202" x="1617.50" y="1968.18" width="2" height="2" type="camera"/>
+    <poi id="poi_42440001_42430358" color="255,0,0" layer="202" x="1693.91" y="2109.19" width="2" height="2" type="camera"/>
+    <poi id="poi_42440001_42432585" color="255,0,0" layer="202" x="1554.79" y="2138.19" width="2" height="2" type="camera"/>
+    <poi id="poi_42440004_42440001" color="255,0,0" layer="202" x="1591.89" y="2208.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42440004_42428310" color="255,0,0" layer="202" x="1573.20" y="2263.15" width="2" height="2" type="camera"/>
+    <poi id="poi_42440009_42430363" color="255,0,0" layer="202" x="1768.60" y="2248.74" width="2" height="2" type="camera"/>
+    <poi id="poi_42440009_42440004" color="255,0,0" layer="202" x="1629.18" y="2278.36" width="2" height="2" type="camera"/>
+    <poi id="poi_42440012_42428313" color="255,0,0" layer="202" x="1642.73" y="2405.32" width="2" height="2" type="camera"/>
+    <poi id="poi_42440012_42440009" color="255,0,0" layer="202" x="1666.77" y="2347.93" width="2" height="2" type="camera"/>
+    <poi id="poi_42440015_42430371" color="255,0,0" layer="202" x="1843.80" y="2388.06" width="2" height="2" type="camera"/>
+    <poi id="poi_42440015_42440012" color="255,0,0" layer="202" x="1704.57" y="2417.62" width="2" height="2" type="camera"/>
+    <poi id="poi_42440020_42440015" color="255,0,0" layer="202" x="1742.85" y="2488.46" width="2" height="2" type="camera"/>
+    <poi id="poi_42440020_42428321" color="255,0,0" layer="202" x="1707.28" y="2553.86" width="2" height="2" type="camera"/>
+    <poi id="poi_42440153_42445928" color="255,0,0" layer="202" x="2155.67" y="1859.28" width="2" height="2" type="camera"/>
+    <poi id="poi_42440153_42432580" color="255,0,0" layer="202" x="2068.20" y="1860.82" width="2" height="2" type="camera"/>
+    <poi id="poi_42440163_42435684" color="255,0,0" layer="202" x="1210.73" y="2368.85" width="2" height="2" type="camera"/>
+    <poi id="poi_42440163_42432594" color="255,0,0" layer="202" x="1071.10" y="2398.72" width="2" height="2" type="camera"/>
+    <poi id="poi_42440170_42440163" color="255,0,0" layer="202" x="969.32" y="2498.85" width="2" height="2" type="camera"/>
+    <poi id="poi_42440452_42430361" color="255,0,0" layer="202" x="1988.43" y="2040.76" width="2" height="2" type="camera"/>
+    <poi id="poi_42440452_42440153" color="255,0,0" layer="202" x="2106.28" y="1931.52" width="2" height="2" type="camera"/>
+    <poi id="poi_42440453_42440452" color="255,0,0" layer="202" x="2193.68" y="1929.18" width="2" height="2" type="camera"/>
+    <poi id="poi_42440951_42450426" color="255,0,0" layer="202" x="2256.55" y="2211.13" width="2" height="2" type="camera"/>
+    <poi id="poi_42440951_42430375" color="255,0,0" layer="202" x="2138.84" y="2320.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42440960_42445033" color="255,0,0" layer="202" x="1258.98" y="2749.57" width="2" height="2" type="camera"/>
+    <poi id="poi_42440960_42440966" color="255,0,0" layer="202" x="1157.95" y="2850.00" width="2" height="2" type="camera"/>
+    <poi id="poi_42443528_42445926" color="255,0,0" layer="202" x="2080.25" y="1718.51" width="2" height="2" type="camera"/>
+    <poi id="poi_42443528_42452353" color="255,0,0" layer="202" x="1993.89" y="1720.56" width="2" height="2" type="camera"/>
+    <poi id="poi_42443532_42435680" color="255,0,0" layer="202" x="1134.99" y="2228.35" width="2" height="2" type="camera"/>
+    <poi id="poi_42443532_42445020" color="255,0,0" layer="202" x="995.42" y="2258.31" width="2" height="2" type="camera"/>
+    <poi id="poi_42443534_42443532" color="255,0,0" layer="202" x="893.62" y="2358.27" width="2" height="2" type="camera"/>
+    <poi id="poi_42443556_42445920" color="255,0,0" layer="202" x="1929.44" y="1438.90" width="2" height="2" type="camera"/>
+    <poi id="poi_42443556_42454428" color="255,0,0" layer="202" x="1842.36" y="1441.56" width="2" height="2" type="camera"/>
+    <poi id="poi_42443561_42435671" color="255,0,0" layer="202" x="984.16" y="1948.59" width="2" height="2" type="camera"/>
+    <poi id="poi_42443561_42445011" color="255,0,0" layer="202" x="844.71" y="1978.71" width="2" height="2" type="camera"/>
+    <poi id="poi_42443563_42443561" color="255,0,0" layer="202" x="742.82" y="2078.73" width="2" height="2" type="camera"/>
+    <poi id="poi_42444043_42432693" color="255,0,0" layer="202" x="1967.29" y="1509.70" width="2" height="2" type="camera"/>
+    <poi id="poi_42445011_42454433" color="255,0,0" layer="202" x="705.53" y="2009.44" width="2" height="2" type="camera"/>
+    <poi id="poi_42445011_42437368" color="255,0,0" layer="202" x="804.93" y="1906.32" width="2" height="2" type="camera"/>
+    <poi id="poi_42445018_42432703" color="255,0,0" layer="202" x="920.27" y="2118.90" width="2" height="2" type="camera"/>
+    <poi id="poi_42445018_42435675" color="255,0,0" layer="202" x="1059.89" y="2089.14" width="2" height="2" type="camera"/>
+    <poi id="poi_42445020_42452365" color="255,0,0" layer="202" x="855.92" y="2288.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42445020_42445018" color="255,0,0" layer="202" x="957.86" y="2188.76" width="2" height="2" type="camera"/>
+    <poi id="poi_42445025_42454042" color="255,0,0" layer="202" x="1006.92" y="2568.41" width="2" height="2" type="camera"/>
+    <poi id="poi_42445025_42440163" color="255,0,0" layer="202" x="1108.77" y="2468.61" width="2" height="2" type="camera"/>
+    <poi id="poi_42445027_42445025" color="255,0,0" layer="202" x="1146.77" y="2539.15" width="2" height="2" type="camera"/>
+    <poi id="poi_42445027_42435702" color="255,0,0" layer="202" x="1286.19" y="2509.84" width="2" height="2" type="camera"/>
+    <poi id="poi_42445033_42435707" color="255,0,0" layer="202" x="1361.63" y="2648.84" width="2" height="2" type="camera"/>
+    <poi id="poi_42445033_1815133244" color="255,0,0" layer="202" x="1221.61" y="2678.50" width="2" height="2" type="camera"/>
+    <poi id="poi_42445916_42437358" color="255,0,0" layer="202" x="1851.30" y="1294.73" width="2" height="2" type="camera"/>
+    <poi id="poi_42445917_42454428" color="255,0,0" layer="202" x="1892.38" y="1370.09" width="2" height="2" type="camera"/>
+    <poi id="poi_42445924_42452353" color="255,0,0" layer="202" x="2043.11" y="1649.15" width="2" height="2" type="camera"/>
+    <poi id="poi_42445941_42440951" color="255,0,0" layer="202" x="2344.05" y="2209.38" width="2" height="2" type="camera"/>
+    <poi id="poi_42446353_42440452" color="255,0,0" layer="202" x="2144.16" y="2001.66" width="2" height="2" type="camera"/>
+    <poi id="poi_42446353_42445930" color="255,0,0" layer="202" x="2231.15" y="1999.51" width="2" height="2" type="camera"/>
+    <poi id="poi_42446363_42445027" color="255,0,0" layer="202" x="1045.73" y="2639.51" width="2" height="2" type="camera"/>
+    <poi id="poi_42450426_42445936" color="255,0,0" layer="202" x="2306.51" y="2139.34" width="2" height="2" type="camera"/>
+    <poi id="poi_42450426_42436700" color="255,0,0" layer="202" x="2218.84" y="2140.17" width="2" height="2" type="camera"/>
+    <poi id="poi_42450434_42445033" color="255,0,0" layer="202" x="1119.72" y="2778.07" width="2" height="2" type="camera"/>
+    <poi id="poi_42452353_42430350" color="255,0,0" layer="202" x="1837.85" y="1759.55" width="2" height="2" type="camera"/>
+    <poi id="poi_42452353_42434072" color="255,0,0" layer="202" x="1956.21" y="1650.98" width="2" height="2" type="camera"/>
+    <poi id="poi_42454428_42430338" color="255,0,0" layer="202" x="1686.32" y="1479.89" width="2" height="2" type="camera"/>
+    <poi id="poi_42454428_42437358" color="255,0,0" layer="202" x="1803.75" y="1368.75" width="2" height="2" type="camera"/>
+    <poi id="poi_42455761_42445018" color="255,0,0" layer="202" x="818.61" y="2219.14" width="2" height="2" type="camera"/>
+    <poi id="poi_1815133244_42445027" color="255,0,0" layer="202" x="1184.54" y="2609.18" width="2" height="2" type="camera"/>
+    <poi id="poi_1815133244_42449550" color="255,0,0" layer="202" x="1082.54" y="2708.57" width="2" height="2" type="camera"/>
+    <poi id="poi_5849918504_42445011" color="255,0,0" layer="202" x="946.56" y="1878.81" width="2" height="2" type="camera"/>
+    <poi id="poi_5849918504_42435671" color="255,0,0" layer="202" x="1086.09" y="1848.92" width="2" height="2" type="camera"/>
+</additional>
